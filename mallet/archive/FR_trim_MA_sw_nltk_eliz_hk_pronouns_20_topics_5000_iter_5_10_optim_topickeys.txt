@@ -1,0 +1,20 @@
+0	Spanish exploration	0.06459	river indians spaniard call town city league country gold great say come indian spain sea way peru mountain majesty find 
+1	Latin titles		0.04632	quod nos nostri nobis nostris kingdom anno nostrum regni nostro vestrae omnibus imperiali dei etc nostram nostra mercatore angliae suis 
+2	Latin rekigious??	0.0423	est autem eos quod habent eis contra terram homines sed terra super vero post emperor tartar nobis tamen erat inter 
+3	trade			0.17956	good ship commodity send sell merchant one buy write bring year make ware voyage cloth trade lade letter pound god 
+4	diplomacy / formal	0.12514	king year lord england say master foresay english land ambassador prussia city john certain prince noble henry one richard take 
+5	generic exploration 	0.58796	man come great make take day good time give send place one captain see king return two say leave thing 
+6	diplomacy Russia 	0.06417	emperor russia great call majesty send country moscow ambassador day duke river say city astracan town mile come tartar pass 
+7	Spanish generic 	0.00847	por las para muy sum como todo mass una les deal province sus provincia alii dicho pilot qual gente donde 
+8	Latin monarchs 		0.04407	che english ejus anno anglorum alia regis nave suo britain tibi study atque est tua tot tum tandem regem sva 
+9	Latin Iceland 		0.02758	est island man esse thing say quod aut year tamen bishop etc haec islander nation islandia hic anno mountain common 
+10	Spain-Eng ?conflict? 	0.14351	ship fleet generali town spaniard man master john english england spanish admiral sir captain two take one fight portugal hand 
+11	sea-faring 		0.16535	day come ship wind shore boat night sail water land anchor league two find take one see aboard morning three 
+12	Latin 			0.02043	quod say est city tunc quia nos ibi illa baatu habet sicut certain eum journey court foresay sartach mare usque 
+13	sea-faring technical	0.07585	league island cape land degree west isle south lie call north bay see fathom east say course saint coast point 
+14	generic exploration 	0.25521	great make man call one many people country say hand see two place water river thing house use certain stand 
+15	formal / diplomacy 	0.23786	say merchant time good subject letter majesty grant every person give dominion company part present make heir governor realm place 
+16	sea-faring exploration 	0.10129	sea land find coast part voyage ice discover island passage degree north discovery way sun towards pass sail west year 
+17	exploration China? 	0.03392	king city great portugal kingdom china ship come goa make call good pegu every merchant pay custom money year one 
+18	generic expl & monrch.	0.34911	time great many part god first country much use nation majesty far matter prince honour sort mean last year king 
+19	numbers and geography 	0.06799	turk say town great city day hundred master thousand call one lord mile wall ambassador two three five come galley 

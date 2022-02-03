@@ -1,0 +1,2145 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.19039318269643485" totalTokens="27790" titles="say, merchant, time, grant, person, heir, william, company, john, governor">
+	<word weight="0.06272040302267003" count="1743">say</word>
+	<word weight="0.02004318100035984" count="557">merchant</word>
+	<word weight="0.014105793450881612" count="392">time</word>
+	<word weight="0.013422094278517453" count="373">grant</word>
+	<word weight="0.011910759265922994" count="331">person</word>
+	<word weight="0.011083123425692695" count="308">heir</word>
+	<word weight="0.011011155091759626" count="306">william</word>
+	<word weight="0.010327455919395465" count="287">company</word>
+	<word weight="0.010291471752428932" count="286">john</word>
+	<word weight="0.009751709247930911" count="271">governor</word>
+	<word weight="0.00967974091399784" count="269">thomas</word>
+	<word weight="0.009103994242533286" count="253">dominion</word>
+	<word weight="0.008960057574667146" count="249">subject</word>
+	<word weight="0.008852105073767541" count="246">trade</word>
+	<word weight="0.008204390068369918" count="228">good</word>
+	<word weight="0.008096437567470314" count="225">successor</word>
+	<word weight="0.007952500899604174" count="221">custom</word>
+	<word weight="0.007700611730838431" count="214">present</word>
+	<word weight="0.007484706729039223" count="208">realm</word>
+	<word weight="0.007484706729039223" count="208">year</word>
+	<word weight="0.007448722562072688" count="207">ship</word>
+	<word weight="0.007376754228139618" count="205">edward</word>
+	<word weight="0.007232817560273479" count="201">richard</word>
+	<word weight="0.007196833393306945" count="200">england</word>
+	<word weight="0.006765023389708528" count="188">traffic</word>
+	<word weight="0.006729039222741993" count="187">give</word>
+	<word weight="0.006441165887009716" count="179">merchandise</word>
+	<word weight="0.006405181720043181" count="178">place</word>
+	<word weight="0.006225260885210507" count="173">name</word>
+	<word weight="0.006189276718243973" count="172">make</word>
+	<word weight="0.006153292551277438" count="171">privilege</word>
+	<word weight="0.0061173083843109035" count="170">country</word>
+	<word weight="0.0057574667146455556" count="160">officer</word>
+	<word weight="0.005469593378913278" count="152">law</word>
+	<word weight="0.0053976250449802084" count="150">use</word>
+	<word weight="0.005325656711047139" count="148">part</word>
+	<word weight="0.005037783375314861" count="140">contrary</word>
+	<word weight="0.004965815041381792" count="138">accord</word>
+	<word weight="0.004893846707448722" count="136">letter</word>
+	<word weight="0.004821878373515653" count="134">factor</word>
+	<word weight="0.00464195753868298" count="129">land</word>
+	<word weight="0.004534005037783375" count="126">manner</word>
+	<word weight="0.004498020870816841" count="125">assign</word>
+	<word weight="0.0042821158690176326" count="119">london</word>
+	<word weight="0.004174163368118028" count="116">sir</word>
+	<word weight="0.004174163368118028" count="116">port</word>
+	<word weight="0.0041381792011514935" count="115">patent</word>
+	<word weight="0.003922274199352285" count="109">fellowship</word>
+	<word weight="0.0037063691975530765" count="103">ware</word>
+	<word weight="0.003670385030586542" count="102">free</word>
+	<phrase weight="0.0030883261272390363" count="10">heir successor</phrase>
+	<phrase weight="0.002779493514515133" count="9">say merchant</phrase>
+	<phrase weight="0.002779493514515133" count="9">edward bonaventure</phrase>
+	<phrase weight="0.0018529956763434219" count="6">custom say</phrase>
+	<phrase weight="0.0018529956763434219" count="6">trade merchandise</phrase>
+	<phrase weight="0.0015441630636195182" count="5">privilege grant</phrase>
+	<phrase weight="0.0015441630636195182" count="5">english merchant</phrase>
+	<phrase weight="0.0015441630636195182" count="5">sir william</phrase>
+	<phrase weight="0.0015441630636195182" count="5">say thomas</phrase>
+	<phrase weight="0.0015441630636195182" count="5">realm dominion</phrase>
+	<phrase weight="0.0015441630636195182" count="5">say ship</phrase>
+	<phrase weight="0.0015441630636195182" count="5">heir assign</phrase>
+	<phrase weight="0.0015441630636195182" count="5">grant say</phrase>
+	<phrase weight="0.0015441630636195182" count="5">merchant factor</phrase>
+	<phrase weight="0.0012353304508956147" count="4">letter patent</phrase>
+	<phrase weight="0.0012353304508956147" count="4">subject say</phrase>
+	<phrase weight="0.0012353304508956147" count="4">appertain say</phrase>
+	<phrase weight="0.0012353304508956147" count="4">person person</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">say good</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">matthew gonson</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">factor servant</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">say term year</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">power authority</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">statute ordinance</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">queen england</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">accord law</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">quality soever</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">land dominion</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">servant william</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">letter privilege</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">say company</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">lizabeth grace</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">pay custom</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">say letter</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">subject merchant</phrase>
+	<phrase weight="9.264978381717109E-4" count="3">ware merchandise</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">cost charge space</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">court record</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">say trade happen</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">assist say</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">william gonson paymaster</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">letter patent grant queen</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">collector custom</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">grant thomas</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">time grant</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">flanders brabant</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">copy annex</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">free custom</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">adventurer discovery</phrase>
+	<phrase weight="6.176652254478073E-4" count="2">merchant sir john hart</phrase>
+  </topic>
+  <topic id="1" alpha="0.0346635703105528" totalTokens="23408" titles="quod, eos, eis, habent, terra, terram, homines, vero, emperor, tartar">
+	<word weight="0.009612098427887902" count="225">quod</word>
+	<word weight="0.009056732740943266" count="212">eos</word>
+	<word weight="0.007689678742310321" count="180">eis</word>
+	<word weight="0.007134313055365687" count="167">habent</word>
+	<word weight="0.007134313055365687" count="167">terra</word>
+	<word weight="0.006621667805878332" count="155">terram</word>
+	<word weight="0.006151742993848257" count="144">homines</word>
+	<word weight="0.005639097744360902" count="132">vero</word>
+	<word weight="0.004784688995215311" count="112">emperor</word>
+	<word weight="0.004528366370471633" count="106">tartar</word>
+	<word weight="0.0042720437457279565" count="100">erat</word>
+	<word weight="0.0042720437457279565" count="100">nobis</word>
+	<word weight="0.004058441558441558" count="95">erant</word>
+	<word weight="0.003802118933697881" count="89">faciunt</word>
+	<word weight="0.0036739576213260425" count="86">usque</word>
+	<word weight="0.0035457963089542037" count="83">alii</word>
+	<word weight="0.0035457963089542037" count="83">illos</word>
+	<word weight="0.0033749145591250853" count="79">tartari</word>
+	<word weight="0.0032040328092959674" count="75">secundum</word>
+	<word weight="0.0031613123718386878" count="74">sicut</word>
+	<word weight="0.0030758714969241286" count="72">duke</word>
+	<word weight="0.003033151059466849" count="71">aliis</word>
+	<word weight="0.003033151059466849" count="71">unum</word>
+	<word weight="0.0029904306220095694" count="70">fuit</word>
+	<word weight="0.0029477101845522898" count="69">quas</word>
+	<word weight="0.0029477101845522898" count="69">svam</word>
+	<word weight="0.0028622693096377306" count="67">tartarorum</word>
+	<word weight="0.002819548872180451" count="66">unde</word>
+	<word weight="0.0027768284347231714" count="65">hominibus</word>
+	<word weight="0.002734107997265892" count="64">quando</word>
+	<word weight="0.0026913875598086126" count="63">quos</word>
+	<word weight="0.002648667122351333" count="62">die</word>
+	<word weight="0.002648667122351333" count="62">esse</word>
+	<word weight="0.0026059466848940534" count="61">parte</word>
+	<word weight="0.002563226247436774" count="60">debent</word>
+	<word weight="0.002520505809979494" count="59">possunt</word>
+	<word weight="0.002520505809979494" count="59">imperator</word>
+	<word weight="0.002520505809979494" count="59">fuerunt</word>
+	<word weight="0.0024777853725222146" count="58">omnibus</word>
+	<word weight="0.002435064935064935" count="57">suis</word>
+	<word weight="0.002435064935064935" count="57">cap</word>
+	<word weight="0.0023923444976076554" count="56">ipsi</word>
+	<word weight="0.002306903622693096" count="54">equos</word>
+	<word weight="0.002306903622693096" count="54">bello</word>
+	<word weight="0.0022641831852358166" count="53">sine</word>
+	<word weight="0.0022214627477785374" count="52">imperatoris</word>
+	<word weight="0.002178742310321258" count="51">alia</word>
+	<word weight="0.0020933014354066986" count="49">aliquid</word>
+	<word weight="0.002050580997949419" count="48">ind</word>
+	<word weight="0.002050580997949419" count="48">quidam</word>
+	<phrase weight="0.002383384405856316" count="7">plano carpini</phrase>
+	<phrase weight="0.0020429009193054137" count="6">chingis cham</phrase>
+	<phrase weight="0.0010214504596527069" count="3">arripuimus iter</phrase>
+	<phrase weight="0.0010214504596527069" count="3">quod terra</phrase>
+	<phrase weight="0.0010214504596527069" count="3">tartar assign</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">litera imperatoris</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">election emperor</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">polonia hungaria</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">haec terra</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">quod fecerunt</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">venit quidam</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">duke cyrpodan</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">vincentius beluacensis speculum historial</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">dies postquam</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">horse back</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">caetero homines</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">dederunt nobis</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">secundum morem</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">incipiunt redire</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">pope innocentius</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">syra orda</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">aeterna damnation perpetua</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">kythayans emperor</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">eminenti loco</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">tartar chap</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">mongal tartar</phrase>
+	<phrase weight="6.809669731018045E-4" count="2">quando eis</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">suos qualiter ingressi tartaros</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">grisiam alias</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">imperatoris superius annotati possent habere</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">manum svam</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">leucam juos stationibus</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">nuncios quoscunque quotcunque ubicunque transmittit oportet</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">junior ducere tenetur reliquas mulieres sine ulla differentia ducunt uxores emunt eas valde pretiosi parentibus suis mortem maritorum facili</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">maii ingressi</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">iterum devicti</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">debeamus nunc</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">exire inferiores</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">fit sonitus</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">debent die nocteque facere exercitum custodiri repent subito irruant ipsos tartari</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">fecerunt tartari</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">quicquid dicebamus</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">quod circuitu protegit</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">talis illos occiditur absque miseration</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">emperor cuyne</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">habet caudulam unam usque genua retro vestes</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">debellare tentaverunt</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">habeant galeas arma caetera</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">mortuus filii</phrase>
+	<phrase weight="3.4048348655090226E-4" count="1">taliter habere possunt graecum</phrase>
+  </topic>
+  <topic id="2" alpha="0.05940527692990128" totalTokens="17498" titles="grand signior, say, turk, great, come, day, town, city, captain, lord">
+	<word weight="0.03440393187792891" count="602">say</word>
+	<word weight="0.02520288032918048" count="441">turk</word>
+	<word weight="0.02091667619156475" count="366">great</word>
+	<word weight="0.0188592982055092" count="330">come</word>
+	<word weight="0.018744999428506114" count="328">day</word>
+	<word weight="0.017830609212481426" count="312">town</word>
+	<word weight="0.012801463024345639" count="224">city</word>
+	<word weight="0.011258429534803977" count="197">captain</word>
+	<word weight="0.010401188707280832" count="182">lord</word>
+	<word weight="0.009543947879757687" count="167">master</word>
+	<word weight="0.009315350325751514" count="163">call</word>
+	<word weight="0.008229511944222197" count="144">ambassador</word>
+	<word weight="0.007829466224711396" count="137">mile</word>
+	<word weight="0.007772316836209853" count="136">wall</word>
+	<word weight="0.007772316836209853" count="136">night</word>
+	<word weight="0.007429420505200594" count="130">bassa</word>
+	<word weight="0.007429420505200594" count="130">pass</word>
+	<word weight="0.006857926620185164" count="120">make</word>
+	<word weight="0.006629329066178992" count="116">galley</word>
+	<word weight="0.0058292376271573895" count="102">signior</word>
+	<word weight="0.00565778946165276" count="99">castle</word>
+	<word weight="0.005429191907646588" count="95">grand</word>
+	<word weight="0.005200594353640416" count="91">enemy</word>
+	<word weight="0.005143444965138873" count="90">hand</word>
+	<word weight="0.004971996799634244" count="87">gate</word>
+	<word weight="0.004914847411132701" count="86">rhodes</word>
+	<word weight="0.004743399245628071" count="83">christian</word>
+	<word weight="0.004571951080123443" count="80">tripoli</word>
+	<word weight="0.004571951080123443" count="80">shoot</word>
+	<word weight="0.004514801691621899" count="79">place</word>
+	<word weight="0.004229054749114184" count="74">slay</word>
+	<word weight="0.004171905360612641" count="73">venice</word>
+	<word weight="0.004171905360612641" count="73">constantinople</word>
+	<word weight="0.004000457195108012" count="70">bulwark</word>
+	<word weight="0.003943307806606469" count="69">present</word>
+	<word weight="0.0038861584181049263" count="68">venetian</word>
+	<word weight="0.003829009029603383" count="67">assault</word>
+	<word weight="0.003829009029603383" count="67">soldier</word>
+	<word weight="0.003714710252600297" count="65">carovan</word>
+	<word weight="0.003600411475597211" count="63">christians</word>
+	<word weight="0.0034861126985941252" count="61">month</word>
+	<word weight="0.003314664533089496" count="58">camp</word>
+	<word weight="0.003257515144587953" count="57">cyprus</word>
+	<word weight="0.0030860669790833237" count="54">alexandria</word>
+	<word weight="0.0030860669790833237" count="54">court</word>
+	<word weight="0.003028917590581781" count="53">jerusalem</word>
+	<word weight="0.003028917590581781" count="53">earth</word>
+	<word weight="0.003028917590581781" count="53">port</word>
+	<word weight="0.003028917590581781" count="53">enter</word>
+	<word weight="0.0029717682020802376" count="52">artillery</word>
+	<phrase weight="0.008846546444368834" count="26">grand signior</phrase>
+	<phrase weight="0.005784280367471929" count="17">great turk</phrase>
+	<phrase weight="0.004763525008506295" count="14">great master</phrase>
+	<phrase weight="0.00374276964954066" count="11">say lord</phrase>
+	<phrase weight="0.001701258931609391" count="5">hareborne’s ambassage</phrase>
+	<phrase weight="0.001701258931609391" count="5">lord great master</phrase>
+	<phrase weight="0.001701258931609391" count="5">holy cross</phrase>
+	<phrase weight="0.001701258931609391" count="5">patron norado</phrase>
+	<phrase weight="0.001701258931609391" count="5">captain carovan</phrase>
+	<phrase weight="0.001701258931609391" count="5">mile town</phrase>
+	<phrase weight="0.0013610071452875127" count="4">virgin mary</phrase>
+	<phrase weight="0.0013610071452875127" count="4">lord great</phrase>
+	<phrase weight="0.0013610071452875127" count="4">prophet mahomet</phrase>
+	<phrase weight="0.0013610071452875127" count="4">master camp</phrase>
+	<phrase weight="0.0013610071452875127" count="4">say bulwark</phrase>
+	<phrase weight="0.0010207553589656345" count="3">day pass</phrase>
+	<phrase weight="0.0010207553589656345" count="3">four day</phrase>
+	<phrase weight="0.0010207553589656345" count="3">lord master</phrase>
+	<phrase weight="0.0010207553589656345" count="3">city constantinople</phrase>
+	<phrase weight="0.0010207553589656345" count="3">zun zun</phrase>
+	<phrase weight="0.0010207553589656345" count="3">turk host</phrase>
+	<phrase weight="0.0010207553589656345" count="3">say army</phrase>
+	<phrase weight="0.0010207553589656345" count="3">say month</phrase>
+	<phrase weight="0.0010207553589656345" count="3">come say</phrase>
+	<phrase weight="0.0010207553589656345" count="3">captain guard</phrase>
+	<phrase weight="0.0010207553589656345" count="3">night day</phrase>
+	<phrase weight="0.0010207553589656345" count="3">lord baglione</phrase>
+	<phrase weight="0.0010207553589656345" count="3">gabriel martiningo</phrase>
+	<phrase weight="0.0010207553589656345" count="3">galley turk</phrase>
+	<phrase weight="0.0010207553589656345" count="3">marble pillar</phrase>
+	<phrase weight="0.0010207553589656345" count="3">say bassa</phrase>
+	<phrase weight="0.0010207553589656345" count="3">say place</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">sant andrea</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">cairo cairo</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">gate say</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">ditch enemy</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">traitor merall</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">carovan travel</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">shoot artillery</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">house town</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">candie cyprus</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">say master</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">acmek bassa</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">day afore</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">vesture mosquita</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">piece ordinance</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">master barton</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">alexandria damascus</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">mile dickenson</phrase>
+	<phrase weight="6.805035726437564E-4" count="2">piece artillery</phrase>
+  </topic>
+  <topic id="3" alpha="0.0784470478538019" totalTokens="23735" titles="spanish fleet, number dios, ship, sir, generali, great, town, english, captain, enemy">
+	<word weight="0.040404465978512744" count="959">ship</word>
+	<word weight="0.026248156730566675" count="623">fleet</word>
+	<word weight="0.015293869812513166" count="363">sir</word>
+	<word weight="0.013229408047187698" count="314">spanish</word>
+	<word weight="0.013103012428902465" count="311">generali</word>
+	<word weight="0.01306088055614072" count="310">great</word>
+	<word weight="0.01276595744680851" count="303">town</word>
+	<word weight="0.012049715609858859" count="286">english</word>
+	<word weight="0.011459869391194439" count="272">captain</word>
+	<word weight="0.011207078154623974" count="266">enemy</word>
+	<word weight="0.010406572572150831" count="247">fight</word>
+	<word weight="0.010069517590056878" count="239">spain</word>
+	<word weight="0.009900990099009901" count="235">soldier</word>
+	<word weight="0.009563935116915947" count="227">spaniard</word>
+	<word weight="0.009437539498630715" count="224">majesty</word>
+	<word weight="0.00880556140720455" count="209">mariner</word>
+	<word weight="0.008131451443016642" count="193">fort</word>
+	<word weight="0.007752264588160944" count="184">number</word>
+	<word weight="0.00653044027807036" count="155">england</word>
+	<word weight="0.006404044659785128" count="152">army</word>
+	<word weight="0.0059827259321676846" count="142">side</word>
+	<word weight="0.005814198441120708" count="138">shot</word>
+	<word weight="0.005645670950073731" count="134">war</word>
+	<word weight="0.0054771434590267535" count="130">galley</word>
+	<word weight="0.005392879713503265" count="128">drake</word>
+	<word weight="0.005350747840741521" count="127">land</word>
+	<word weight="0.005266484095218032" count="125">lie</word>
+	<word weight="0.005097956604171055" count="121">admiral</word>
+	<word weight="0.005097956604171055" count="121">small</word>
+	<word weight="0.005055824731409311" count="120">fire</word>
+	<word weight="0.0049715609858858225" count="118">ordinance</word>
+	<word weight="0.004887297240362334" count="116">harbour</word>
+	<word weight="0.004760901622077101" count="113">force</word>
+	<word weight="0.004760901622077101" count="113">place</word>
+	<word weight="0.00455024225826838" count="108">march</word>
+	<word weight="0.00455024225826838" count="108">saint</word>
+	<word weight="0.004128923530650938" count="98">city</word>
+	<word weight="0.003876132294080472" count="92">general</word>
+	<word weight="0.003876132294080472" count="92">sail</word>
+	<word weight="0.003791868548556983" count="90">strong</word>
+	<word weight="0.003707604803033495" count="88">dios</word>
+	<word weight="0.003581209184748262" count="85">indies</word>
+	<word weight="0.003581209184748262" count="85">piece</word>
+	<word weight="0.0035390773119865176" count="84">earl</word>
+	<word weight="0.0034969454392247737" count="83">sink</word>
+	<word weight="0.0034969454392247737" count="83">coast</word>
+	<word weight="0.0034548135664630294" count="82">assault</word>
+	<word weight="0.0033705498209395408" count="80">rest</word>
+	<word weight="0.0033284179481777964" count="79">burn</word>
+	<word weight="0.003286286075416052" count="78">francis</word>
+	<phrase weight="0.011014686248331108" count="33">spanish fleet</phrase>
+	<phrase weight="0.007343124165554072" count="22">number dios</phrase>
+	<phrase weight="0.004672897196261682" count="14">francis drake</phrase>
+	<phrase weight="0.004005340453938585" count="12">earl cumberland</phrase>
+	<phrase weight="0.0030040053404539386" count="9">sir francis drake</phrase>
+	<phrase weight="0.002336448598130841" count="7">english fleet</phrase>
+	<phrase weight="0.0020026702269692926" count="6">sir francis</phrase>
+	<phrase weight="0.0020026702269692926" count="6">ship mariner</phrase>
+	<phrase weight="0.0020026702269692926" count="6">puerto rico</phrase>
+	<phrase weight="0.0020026702269692926" count="6">madre dios</phrase>
+	<phrase weight="0.0020026702269692926" count="6">english ship</phrase>
+	<phrase weight="0.0020026702269692926" count="6">spanish ship</phrase>
+	<phrase weight="0.0020026702269692926" count="6">admiral england</phrase>
+	<phrase weight="0.0016688918558077437" count="5">thomas howard</phrase>
+	<phrase weight="0.0016688918558077437" count="5">puerto bello</phrase>
+	<phrase weight="0.0016688918558077437" count="5">charles howard</phrase>
+	<phrase weight="0.0016688918558077437" count="5">spanish galley</phrase>
+	<phrase weight="0.0016688918558077437" count="5">saint domingo</phrase>
+	<phrase weight="0.0016688918558077437" count="5">small ship</phrase>
+	<phrase weight="0.0013351134846461949" count="4">earl essex</phrase>
+	<phrase weight="0.0013351134846461949" count="4">medina sidonia</phrase>
+	<phrase weight="0.0013351134846461949" count="4">venta cruze</phrase>
+	<phrase weight="0.0013351134846461949" count="4">saint iago</phrase>
+	<phrase weight="0.0013351134846461949" count="4">ship war</phrase>
+	<phrase weight="0.0013351134846461949" count="4">honourable earl cumberland</phrase>
+	<phrase weight="0.0013351134846461949" count="4">mariner soldier</phrase>
+	<phrase weight="0.0013351134846461949" count="4">piece ordinance</phrase>
+	<phrase weight="0.0013351134846461949" count="4">indian fleet</phrase>
+	<phrase weight="0.0013351134846461949" count="4">sir robert</phrase>
+	<phrase weight="0.0013351134846461949" count="4">small shot</phrase>
+	<phrase weight="0.0010013351134846463" count="3">saint tome</phrase>
+	<phrase weight="0.0010013351134846463" count="3">lieutenant generali</phrase>
+	<phrase weight="0.0010013351134846463" count="3">juan luna</phrase>
+	<phrase weight="0.0010013351134846463" count="3">spain fleet</phrase>
+	<phrase weight="0.0010013351134846463" count="3">fleet sir</phrase>
+	<phrase weight="0.0010013351134846463" count="3">generali norris</phrase>
+	<phrase weight="0.0010013351134846463" count="3">diego flores valdes</phrase>
+	<phrase weight="0.0010013351134846463" count="3">push pike</phrase>
+	<phrase weight="0.0010013351134846463" count="3">fire burn</phrase>
+	<phrase weight="0.0010013351134846463" count="3">ship fleet</phrase>
+	<phrase weight="0.0010013351134846463" count="3">strong fort</phrase>
+	<phrase weight="0.0010013351134846463" count="3">ship galley</phrase>
+	<phrase weight="0.0010013351134846463" count="3">england low</phrase>
+	<phrase weight="0.0010013351134846463" count="3">consume fire</phrase>
+	<phrase weight="0.0010013351134846463" count="3">amias preston</phrase>
+	<phrase weight="0.0010013351134846463" count="3">ship spanish</phrase>
+	<phrase weight="0.0010013351134846463" count="3">great ship</phrase>
+	<phrase weight="0.0010013351134846463" count="3">fight revenge</phrase>
+	<phrase weight="0.0010013351134846463" count="3">soldier mariner</phrase>
+	<phrase weight="0.0010013351134846463" count="3">duke medina sidonia</phrase>
+  </topic>
+  <topic id="4" alpha="0.07902469229574433" totalTokens="24774" titles="city, king, great, good, make, come, ship, merchant, portugal, money">
+	<word weight="0.022644708161782514" count="561">city</word>
+	<word weight="0.02183741018810043" count="541">king</word>
+	<word weight="0.021635585694679906" count="536">great</word>
+	<word weight="0.02026317913942036" count="502">good</word>
+	<word weight="0.013643335755227255" count="338">make</word>
+	<word weight="0.012957132477597482" count="321">come</word>
+	<word weight="0.012795672882861065" count="317">ship</word>
+	<word weight="0.012149834503915396" count="301">merchant</word>
+	<word weight="0.012069104706547186" count="299">portugal</word>
+	<word weight="0.010737063049971745" count="266">money</word>
+	<word weight="0.010575603455235328" count="262">sell</word>
+	<word weight="0.010373778961814805" count="257">pay</word>
+	<word weight="0.00928392669734399" count="230">year</word>
+	<word weight="0.008557358521030112" count="212">cloth</word>
+	<word weight="0.008032614838136757" count="199">day</word>
+	<word weight="0.007830790344716235" count="194">commodity</word>
+	<word weight="0.007750060547348026" count="192">merchandise</word>
+	<word weight="0.007628965851295713" count="189">goa</word>
+	<word weight="0.0075886009526116086" count="188">custom</word>
+	<word weight="0.0071042221684023575" count="176">lade</word>
+	<word weight="0.007023492371034149" count="174">four</word>
+	<word weight="0.00694276257366594" count="172">small</word>
+	<word weight="0.006781302978929523" count="168">place</word>
+	<word weight="0.006700573181561314" count="166">kingdom</word>
+	<word weight="0.0066198433841931055" count="164">pegu</word>
+	<word weight="0.0066198433841931055" count="164">pound</word>
+	<word weight="0.006539113586824897" count="162">carry</word>
+	<word weight="0.006256559296036167" count="155">buy</word>
+	<word weight="0.006175829498667958" count="153">house</word>
+	<word weight="0.005974005005247437" count="148">voyage</word>
+	<word weight="0.005449261322354081" count="135">river</word>
+	<word weight="0.005368531524985873" count="133">bring</word>
+	<word weight="0.005247436828933559" count="130">trade</word>
+	<word weight="0.005247436828933559" count="130">say</word>
+	<word weight="0.005126342132881247" count="127">gold</word>
+	<word weight="0.005085977234197142" count="126">call</word>
+	<word weight="0.005045612335513038" count="125">china</word>
+	<word weight="0.005045612335513038" count="125">ducat</word>
+	<word weight="0.004884152740776621" count="121">sort</word>
+	<word weight="0.0046823282473560995" count="116">thing</word>
+	<word weight="0.004561233551303786" count="113">moor</word>
+	<word weight="0.004520868652619682" count="112">half</word>
+	<word weight="0.004399773956567369" count="109">six</word>
+	<word weight="0.004359409057883265" count="108">ormus</word>
+	<word weight="0.004359409057883265" count="108">indies</word>
+	<word weight="0.00431904415919916" count="107">weight</word>
+	<word weight="0.0041979494631468476" count="104">aleppo</word>
+	<word weight="0.0041979494631468476" count="104">store</word>
+	<word weight="0.0041979494631468476" count="104">pass</word>
+	<word weight="0.004076854767094535" count="101">country</word>
+	<phrase weight="0.002737476047084588" count="10">king portugal</phrase>
+	<phrase weight="0.0024637284423761293" count="9">pound weight</phrase>
+	<phrase weight="0.0021899808376676703" count="8">great store</phrase>
+	<phrase weight="0.0019162332329592116" count="7">pay custom</phrase>
+	<phrase weight="0.0016424856282507528" count="6">pay tribute</phrase>
+	<phrase weight="0.001368738023542294" count="5">king pegu</phrase>
+	<phrase weight="0.001368738023542294" count="5">english voyage</phrase>
+	<phrase weight="0.001368738023542294" count="5">four day</phrase>
+	<phrase weight="0.0010949904188338351" count="4">pay money</phrase>
+	<phrase weight="0.0010949904188338351" count="4">pepper elephant</phrase>
+	<phrase weight="0.0010949904188338351" count="4">king cochin</phrase>
+	<phrase weight="0.0010949904188338351" count="4">cotton wool</phrase>
+	<phrase weight="0.0010949904188338351" count="4">great city</phrase>
+	<phrase weight="0.0010949904188338351" count="4">ship lade</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">zelabdim echebar</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">elephant tooth</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">castle arguin</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">china japan</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">four month</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">make great</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">buy sell</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">ship come</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">good store</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">trade merchandise</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">river tigris</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">sack wool</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">king king</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">tripoli syria</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">write goa</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">ruby diamond</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">east indies</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">city small</phrase>
+	<phrase weight="8.212428141253764E-4" count="3">annuity ducat</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">price sell</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">trade portugal</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">king cambaia</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">make small</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">prison die</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">tooth palmerin</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">babylon basora</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">ganges great</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">thing good</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">worth pound</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">good sell</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">stropene accuse</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">king moor</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">kingdom darha kingdom</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">zelabdim echebar king cambaia</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">city good</phrase>
+	<phrase weight="5.474952094169176E-4" count="2">come king</phrase>
+  </topic>
+  <topic id="5" alpha="0.010017988319025615" totalTokens="8475" titles="che, mass, qual, deal, province, provincia, alii, grand, english, dicho">
+	<word weight="0.00696165191740413" count="59">che</word>
+	<word weight="0.006489675516224189" count="55">mass</word>
+	<word weight="0.006017699115044248" count="51">qual</word>
+	<word weight="0.005309734513274336" count="45">deal</word>
+	<word weight="0.0048377581120943956" count="41">province</word>
+	<word weight="0.00471976401179941" count="40">provincia</word>
+	<word weight="0.00448377581120944" count="38">alii</word>
+	<word weight="0.004365781710914454" count="37">grand</word>
+	<word weight="0.004365781710914454" count="37">english</word>
+	<word weight="0.004247787610619469" count="36">dicho</word>
+	<word weight="0.004011799410029498" count="34">gente</word>
+	<word weight="0.0037758112094395282" count="32">ello</word>
+	<word weight="0.0036578171091445426" count="31">dias</word>
+	<word weight="0.0036578171091445426" count="31">common</word>
+	<word weight="0.0035398230088495575" count="30">pilot</word>
+	<word weight="0.0034218289085545723" count="29">bernaldino</word>
+	<word weight="0.003303834808259587" count="28">pueblos</word>
+	<word weight="0.003303834808259587" count="28">rio</word>
+	<word weight="0.003303834808259587" count="28">della</word>
+	<word weight="0.003185840707964602" count="27">leguas</word>
+	<word weight="0.003185840707964602" count="27">indios</word>
+	<word weight="0.003185840707964602" count="27">quatro</word>
+	<word weight="0.0030678466076696164" count="26">piloto</word>
+	<word weight="0.0030678466076696164" count="26">hacer</word>
+	<word weight="0.0030678466076696164" count="26">tierra</word>
+	<word weight="0.0030678466076696164" count="26">mayor</word>
+	<word weight="0.0030678466076696164" count="26">voyage</word>
+	<word weight="0.0029498525073746312" count="25">nation</word>
+	<word weight="0.0029498525073746312" count="25">people</word>
+	<word weight="0.002831858407079646" count="24">avian</word>
+	<word weight="0.002831858407079646" count="24">present</word>
+	<word weight="0.002713864306784661" count="23">despue</word>
+	<word weight="0.002713864306784661" count="23">vostra</word>
+	<word weight="0.002713864306784661" count="23">alia</word>
+	<word weight="0.002713864306784661" count="23">parte</word>
+	<word weight="0.0025958702064896753" count="22">mucha</word>
+	<word weight="0.0025958702064896753" count="22">capitan</word>
+	<word weight="0.0025958702064896753" count="22">quales</word>
+	<word weight="0.00247787610619469" count="21">soldado</word>
+	<word weight="0.00247787610619469" count="21">dios</word>
+	<word weight="0.00247787610619469" count="21">signior</word>
+	<word weight="0.00247787610619469" count="21">accord</word>
+	<word weight="0.002359882005899705" count="20">norte</word>
+	<word weight="0.002359882005899705" count="20">bien</word>
+	<word weight="0.002359882005899705" count="20">dicha</word>
+	<word weight="0.002359882005899705" count="20">mar</word>
+	<word weight="0.00224188790560472" count="19">muchas</word>
+	<word weight="0.00224188790560472" count="19">navios</word>
+	<word weight="0.00224188790560472" count="19">gli</word>
+	<word weight="0.0021238938053097347" count="18">hallaron</word>
+	<phrase weight="0.007992007992007992" count="8">bernaldino delgadillo avellaneda</phrase>
+	<phrase weight="0.004995004995004995" count="5">keel david filly</phrase>
+	<phrase weight="0.003996003996003996" count="4">pilot major</phrase>
+	<phrase weight="0.003996003996003996" count="4">grand signior</phrase>
+	<phrase weight="0.002997002997002997" count="3">alcaide hamode</phrase>
+	<phrase weight="0.002997002997002997" count="3">tombuto gago</phrase>
+	<phrase weight="0.002997002997002997" count="3">antonio espejo</phrase>
+	<phrase weight="0.002997002997002997" count="3">delgadillo avellaneda</phrase>
+	<phrase weight="0.002997002997002997" count="3">story high</phrase>
+	<phrase weight="0.001998001998001998" count="2">columbus terra rubra</phrase>
+	<phrase weight="0.001998001998001998" count="2">province cibola</phrase>
+	<phrase weight="0.001998001998001998" count="2">poplar walnut</phrase>
+	<phrase weight="0.001998001998001998" count="2">salvo condutto</phrase>
+	<phrase weight="0.001998001998001998" count="2">bartholomew columbus</phrase>
+	<phrase weight="0.001998001998001998" count="2">foresay friar</phrase>
+	<phrase weight="0.001998001998001998" count="2">rossia turchia</phrase>
+	<phrase weight="0.001998001998001998" count="2">abessis giouasir sirvan</phrase>
+	<phrase weight="0.001998001998001998" count="2">signior bernaldino</phrase>
+	<phrase weight="0.001998001998001998" count="2">pilot examine</phrase>
+	<phrase weight="0.001998001998001998" count="2">altissimo dio</phrase>
+	<phrase weight="0.001998001998001998" count="2">alcaide monsor</phrase>
+	<phrase weight="0.001998001998001998" count="2">province province</phrase>
+	<phrase weight="0.001998001998001998" count="2">high mighty</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">llamava fray augustin ruyz augustin morava</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">vostra alteza cuya serenissimus persona supplicamos pidimos dios omnipotent</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">eunuchi grand</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">cierta arriba dicho laqual embio luego conde corunna virey aquel reyno magestad senores real consejo india ordenassen fuessen servidos hecho cuydado signior nota situa ayudar negocio tanta almas redemidas sangre condenen cuyo buenos</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">affecione tutto quello che aspetta cose</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">habitabile che</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">dove crede che</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">parte mondo</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">quebraran basker-vill</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">algieri franchia corvacia belgrado sempre</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">otrio navio aviso hacer</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">espanna mayores procurar aprender lengua sabida bautizarlos predicarles santo evangelio alcan ada licentia sobredichos tomando companneros mesma orden partio ocho soldado voluntad quisieron acompannar poner execution christiano zeloso intento quales pocos dias camino toparon tiguas provincia llamava tiguas</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">hernandez standard-bearer journey</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">tiena tantos botos</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">show intercept</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">dove havendo</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">mrneth disputation</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">voi agioutati continuamente favoriti</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">trae cinco hombre guerra numero vayona</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">medios dias rabel segundo anno nueve</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">imperatore della</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">grandissima mutation</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">norte cuenta hara tiempo anno qual responder piloto examina aquello preguntaren luego pregunta senna tierras estuvieren camino llegar</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">saquear saquear</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">mandar guinee assi mandasse desfazer</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">quando gli inglesi</phrase>
+	<phrase weight="9.99000999000999E-4" count="1">casa contratacion india</phrase>
+  </topic>
+  <topic id="6" alpha="0.04770074589313756" totalTokens="13029" titles="english, long, anno, fuit, ejus, quibus, tandem, vero, illa, book">
+	<word weight="0.006063397037378156" count="79">english</word>
+	<word weight="0.004221352367794919" count="55">long</word>
+	<word weight="0.004221352367794919" count="55">anno</word>
+	<word weight="0.0036840893391664746" count="48">fuit</word>
+	<word weight="0.00360733747793384" count="47">ejus</word>
+	<word weight="0.0033770818942359354" count="44">quibus</word>
+	<word weight="0.0031468263105380308" count="41">tandem</word>
+	<word weight="0.0030700744493053957" count="40">vero</word>
+	<word weight="0.0029933225880727607" count="39">illa</word>
+	<word weight="0.0029165707268401257" count="38">book</word>
+	<word weight="0.002763067004374856" count="36">suum</word>
+	<word weight="0.002686315143142221" count="35">anglorum</word>
+	<word weight="0.002686315143142221" count="35">christ</word>
+	<word weight="0.0026095632819095865" count="34">cvi</word>
+	<word weight="0.0024560595594443164" count="32">study</word>
+	<word weight="0.0024560595594443164" count="32">tempore</word>
+	<word weight="0.0024560595594443164" count="32">semper</word>
+	<word weight="0.002379307698211682" count="31">jam</word>
+	<word weight="0.002379307698211682" count="31">tibi</word>
+	<word weight="0.002379307698211682" count="31">regis</word>
+	<word weight="0.002379307698211682" count="31">svi</word>
+	<word weight="0.002302555836979047" count="30">illic</word>
+	<word weight="0.0022258039757464118" count="29">omnia</word>
+	<word weight="0.0022258039757464118" count="29">terra</word>
+	<word weight="0.0022258039757464118" count="29">rex</word>
+	<word weight="0.0021490521145137768" count="28">quem</word>
+	<word weight="0.0021490521145137768" count="28">nunc</word>
+	<word weight="0.0021490521145137768" count="28">insulam</word>
+	<word weight="0.0021490521145137768" count="28">britain</word>
+	<word weight="0.002072300253281142" count="27">tua</word>
+	<word weight="0.002072300253281142" count="27">propter</word>
+	<word weight="0.002072300253281142" count="27">sibi</word>
+	<word weight="0.001995548392048507" count="26">travail</word>
+	<word weight="0.001995548392048507" count="26">esse</word>
+	<word weight="0.001995548392048507" count="26">unde</word>
+	<word weight="0.0019187965308158723" count="25">mari</word>
+	<word weight="0.0019187965308158723" count="25">tanta</word>
+	<word weight="0.0019187965308158723" count="25">domini</word>
+	<word weight="0.0019187965308158723" count="25">svae</word>
+	<word weight="0.0018420446695832373" count="24">record</word>
+	<word weight="0.0017652928083506025" count="23">eam</word>
+	<word weight="0.0017652928083506025" count="23">edgar</word>
+	<word weight="0.0017652928083506025" count="23">vir</word>
+	<word weight="0.0017652928083506025" count="23">testimony</word>
+	<word weight="0.0016885409471179677" count="22">tot</word>
+	<word weight="0.0016885409471179677" count="22">iter</word>
+	<word weight="0.0016885409471179677" count="22">flourish</word>
+	<word weight="0.0016117890858853327" count="21">virtute</word>
+	<word weight="0.0016117890858853327" count="21">insulas</word>
+	<word weight="0.0015350372246526979" count="20">christo</word>
+	<phrase weight="0.002211166390270868" count="4">british monarchic</phrase>
+	<phrase weight="0.002211166390270868" count="4">carrah colmak</phrase>
+	<phrase weight="0.001658374792703151" count="3">thomas chaloner</phrase>
+	<phrase weight="0.001658374792703151" count="3">arguit aurum</phrase>
+	<phrase weight="0.001105583195135434" count="2">anno dom</phrase>
+	<phrase weight="0.001105583195135434" count="2">nno dominicae incarnationis sexcentesimo</phrase>
+	<phrase weight="0.001105583195135434" count="2">yak olgush</phrase>
+	<phrase weight="0.001105583195135434" count="2">titulo mannhelge</phrase>
+	<phrase weight="0.001105583195135434" count="2">regum anglorum</phrase>
+	<phrase weight="0.001105583195135434" count="2">nova zembla tabin</phrase>
+	<phrase weight="0.001105583195135434" count="2">unde constat</phrase>
+	<phrase weight="0.001105583195135434" count="2">anno domini</phrase>
+	<phrase weight="0.001105583195135434" count="2">mitto queri</phrase>
+	<phrase weight="0.001105583195135434" count="2">alexius comnenus</phrase>
+	<phrase weight="0.001105583195135434" count="2">polum magnetis</phrase>
+	<phrase weight="0.001105583195135434" count="2">humano generi</phrase>
+	<phrase weight="0.001105583195135434" count="2">nominis tilney</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">libros complures linguam</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">nutriendos vitaeque</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">repetitis abrogat legibus</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">rebus vestratium vicinorum</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">famous renown gerardus mer cator</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">designatus aeta</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">incontinenter portati</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">osculati sumus</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">procession solenni sva ecclesiam</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">hinc illa</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">svae maledicebantur ocyiis domino vindice</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">universae metropolis syriae provincias bonorum omnium</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">fere contiguos</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">invasimus bella</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">philosophus omne</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">malmesburie book</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">viro erudition virtute</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">learning monument</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">brunonis cognati interempti</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">primum ovum unde</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">iter septentrionem</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">volet quaerat</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">aetatis posteritatis ornamentum</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">divine study</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">olim multos ediderit libros carmina quaedam graeca</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">dignas laudes aequare latinis mentior infoelix corpore virtus lucet</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">divulgaretur suo adventu</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">tuus quaeso</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">beda eaiesi-in</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">immerita justum cervice revelli</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">ignosce relicti longinquum</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">avidissime desiderarem</phrase>
+	<phrase weight="5.52791597567717E-4" count="1">solvant telonia negociatore</phrase>
+  </topic>
+  <topic id="7" alpha="0.6331594158680167" totalTokens="156157" titles="english voyage, please god, great, man, think good, return home, make, time, take, give">
+	<word weight="0.0149721114007057" count="2338">great</word>
+	<word weight="0.014792804677343955" count="2310">man</word>
+	<word weight="0.01285244977810793" count="2007">make</word>
+	<word weight="0.012660335431648918" count="1977">time</word>
+	<word weight="0.01203276189988281" count="1879">good</word>
+	<word weight="0.008779625633176866" count="1371">god</word>
+	<word weight="0.007908707262562677" count="1235">take</word>
+	<word weight="0.007825457712430439" count="1222">give</word>
+	<word weight="0.007652554800617327" count="1195">place</word>
+	<word weight="0.007530882381193286" count="1176">mean</word>
+	<word weight="0.007473248077255582" count="1167">think</word>
+	<word weight="0.007389998527123344" count="1154">part</word>
+	<word weight="0.00687128979168401" count="1073">cause</word>
+	<word weight="0.006691983068322266" count="1045">know</word>
+	<word weight="0.006519080156509155" count="1018">return</word>
+	<word weight="0.006448638229474183" count="1007">thing</word>
+	<word weight="0.00623731244836927" count="974">first</word>
+	<word weight="0.005596931293505894" count="874">send</word>
+	<word weight="0.005552104612665459" count="867">come</word>
+	<word weight="0.005199894977490602" count="812">present</word>
+	<word weight="0.005155068296650166" count="805">bring</word>
+	<word weight="0.004969357761739787" count="776">find</word>
+	<word weight="0.004962953950191154" count="775">see</word>
+	<word weight="0.00495655013864252" count="774">leave</word>
+	<word weight="0.004898915834704816" count="765">country</word>
+	<word weight="0.004790051038378043" count="748">company</word>
+	<word weight="0.0047196091113430715" count="737">voyage</word>
+	<word weight="0.004373803287716849" count="683">long</word>
+	<word weight="0.004264938491390076" count="666">purpose</word>
+	<word weight="0.004245727056744174" count="663">order</word>
+	<word weight="0.004027997464090626" count="629">better</word>
+	<word weight="0.004008786029444726" count="626">receive</word>
+	<word weight="0.0038230754945343466" count="597">hand</word>
+	<word weight="0.0037590373790480094" count="587">matter</word>
+	<word weight="0.003662980205818503" count="572">people</word>
+	<word weight="0.0036565763942698693" count="571">write</word>
+	<word weight="0.003611749713429433" count="564">ship</word>
+	<word weight="0.003541307786394462" count="553">pass</word>
+	<word weight="0.003490077294005392" count="545">way</word>
+	<word weight="0.003413231555421787" count="533">majesty</word>
+	<word weight="0.0033555972514840832" count="524">put</word>
+	<word weight="0.003336385816838182" count="521">sort</word>
+	<word weight="0.003310770570643647" count="517">end</word>
+	<word weight="0.0033043667590950134" count="516">keep</word>
+	<word weight="0.003189098151219606" count="498">desire</word>
+	<word weight="0.0031442714703791698" count="491">answer</word>
+	<word weight="0.0030418104856010297" count="475">show</word>
+	<word weight="0.0030290028625037622" count="473">letter</word>
+	<word weight="0.0030225990509551285" count="472">together</word>
+	<word weight="0.0030033876163092273" count="469">king</word>
+	<phrase weight="0.0010260544541756751" count="28">english voyage</phrase>
+	<phrase weight="9.527648503059841E-4" count="26">please god</phrase>
+	<phrase weight="8.061856425666019E-4" count="22">think good</phrase>
+	<phrase weight="8.061856425666019E-4" count="22">return home</phrase>
+	<phrase weight="6.229616328923743E-4" count="17">good order</phrase>
+	<phrase weight="5.863168309575287E-4" count="16">mean time</phrase>
+	<phrase weight="5.496720290226831E-4" count="15">long time</phrase>
+	<phrase weight="4.397376232181465E-4" count="12">take leave</phrase>
+	<phrase weight="4.397376232181465E-4" count="12">great number</phrase>
+	<phrase weight="4.0309282128330094E-4" count="11">mean season</phrase>
+	<phrase weight="3.664480193484554E-4" count="10">poor man</phrase>
+	<phrase weight="3.664480193484554E-4" count="10">letter write</phrase>
+	<phrase weight="3.664480193484554E-4" count="10">great part</phrase>
+	<phrase weight="3.664480193484554E-4" count="10">almighty god</phrase>
+	<phrase weight="3.298032174136099E-4" count="9">man good</phrase>
+	<phrase weight="3.298032174136099E-4" count="9">nothing else</phrase>
+	<phrase weight="2.9315841547876436E-4" count="8">time past</phrase>
+	<phrase weight="2.9315841547876436E-4" count="8">set forth</phrase>
+	<phrase weight="2.9315841547876436E-4" count="8">grace god</phrase>
+	<phrase weight="2.9315841547876436E-4" count="8">make great</phrase>
+	<phrase weight="2.9315841547876436E-4" count="8">year lord</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">help god</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">thing else</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">spend time</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">give credit</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">right hand</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">great quantity</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">give order</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">write letter</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">short time</phrase>
+	<phrase weight="2.565136135439188E-4" count="7">god know</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">good success</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">good hap</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">cause make</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">lord god</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">think meet</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">place think</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">great man</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">great good</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">god send</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">thing necessary</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">since time</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">true report</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">think best</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">return back</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">appoint purpose</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">safe conduct</phrase>
+	<phrase weight="2.1986881160907326E-4" count="6">time bring</phrase>
+	<phrase weight="1.832240096742277E-4" count="5">long since</phrase>
+	<phrase weight="1.832240096742277E-4" count="5">excellent majesty</phrase>
+  </topic>
+  <topic id="8" alpha="0.24834394674984664" totalTokens="104957" titles="gold silver, great, great store, man, make, call, country, people, hand, see">
+	<word weight="0.024181331402383835" count="2538">great</word>
+	<word weight="0.01784540335565994" count="1873">man</word>
+	<word weight="0.01660680088036053" count="1743">make</word>
+	<word weight="0.01615899844698305" count="1696">call</word>
+	<word weight="0.010966395762073993" count="1151">country</word>
+	<word weight="0.010880646359937879" count="1142">people</word>
+	<word weight="0.00958487761654773" count="1006">hand</word>
+	<word weight="0.008803605285974255" count="924">see</word>
+	<word weight="0.00850824623417209" count="893">say</word>
+	<word weight="0.007974694398658498" count="837">place</word>
+	<word weight="0.00752689196528102" count="790">water</word>
+	<word weight="0.007288699181569595" count="765">come</word>
+	<word weight="0.007164838934039654" count="752">house</word>
+	<word weight="0.006755147346056004" count="709">stand</word>
+	<word weight="0.006755147346056004" count="709">thing</word>
+	<word weight="0.006631287098526063" count="696">use</word>
+	<word weight="0.006574120830435321" count="690">side</word>
+	<word weight="0.006536009985041493" count="686">certain</word>
+	<word weight="0.005983402726830988" count="628">time</word>
+	<word weight="0.005554655716150423" count="583">part</word>
+	<word weight="0.005507017159408139" count="578">long</word>
+	<word weight="0.005497489448059682" count="577">head</word>
+	<word weight="0.005354573777832826" count="562">woman</word>
+	<word weight="0.00534504606648437" count="561">manner</word>
+	<word weight="0.005240241241651343" count="550">tree</word>
+	<word weight="0.005173547262212144" count="543">eat</word>
+	<word weight="0.00496393761254609" count="521">stone</word>
+	<word weight="0.00467810627209238" count="491">lie</word>
+	<word weight="0.004620940004001639" count="485">ground</word>
+	<word weight="0.004611412292653182" count="484">fish</word>
+	<word weight="0.004544718313213983" count="477">take</word>
+	<word weight="0.00445896891107787" count="468">fair</word>
+	<word weight="0.004439913488380956" count="466">river</word>
+	<word weight="0.004392274931638671" count="461">gold</word>
+	<word weight="0.004316053240851016" count="453">find</word>
+	<word weight="0.004316053240851016" count="453">day</word>
+	<word weight="0.004154082147927247" count="436">high</word>
+	<word weight="0.004011166477700391" count="421">land</word>
+	<word weight="0.003982583343655021" count="418">name</word>
+	<word weight="0.003963527920958106" count="416">kind</word>
+	<word weight="0.003963527920958106" count="416">diverse</word>
+	<word weight="0.003934944786912736" count="413">grow</word>
+	<word weight="0.003906361652867365" count="410">set</word>
+	<word weight="0.0038777785188219937" count="407">wood</word>
+	<word weight="0.003868250807473537" count="406">four</word>
+	<word weight="0.003725335137246682" count="391">small</word>
+	<word weight="0.0036491134464590263" count="383">store</word>
+	<word weight="0.003534780910277542" count="371">bring</word>
+	<word weight="0.003515725487580628" count="369">drink</word>
+	<word weight="0.003515725487580628" count="369">sort</word>
+	<phrase weight="0.0015262694452597594" count="26">gold silver</phrase>
+	<phrase weight="0.0014088641033167008" count="24">great store</phrase>
+	<phrase weight="9.979454065159965E-4" count="17">people call</phrase>
+	<phrase weight="9.979454065159965E-4" count="17">meat drink</phrase>
+	<phrase weight="9.392427355444673E-4" count="16">woman child</phrase>
+	<phrase weight="8.805400645729381E-4" count="15">great part</phrase>
+	<phrase weight="8.805400645729381E-4" count="15">bow arrow</phrase>
+	<phrase weight="8.218373936014089E-4" count="14">wife child</phrase>
+	<phrase weight="8.218373936014089E-4" count="14">make great</phrase>
+	<phrase weight="7.044320516583504E-4" count="12">people country</phrase>
+	<phrase weight="7.044320516583504E-4" count="12">left hand</phrase>
+	<phrase weight="6.457293806868212E-4" count="11">river call</phrase>
+	<phrase weight="5.87026709715292E-4" count="10">thing great</phrase>
+	<phrase weight="5.87026709715292E-4" count="10">right hand</phrase>
+	<phrase weight="5.283240387437628E-4" count="9">old man</phrase>
+	<phrase weight="5.283240387437628E-4" count="9">nothing else</phrase>
+	<phrase weight="5.283240387437628E-4" count="9">wild beast</phrase>
+	<phrase weight="5.283240387437628E-4" count="9">man woman</phrase>
+	<phrase weight="5.283240387437628E-4" count="9">place call</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">precious stone</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">far distant</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">hand call</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">water side</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">huge gallant</phrase>
+	<phrase weight="4.6962136777223366E-4" count="8">old time</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">great quantity</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">eat drink</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">call language</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">town call</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">fresh water</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">loud voice</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">great abundance</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">stone cast</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">stand midst</phrase>
+	<phrase weight="4.1091869680070446E-4" count="7">man call</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">great plenty</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">great number</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">infinite number</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">length breadth</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">multitude people</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">common people</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">speak language</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">young man</phrase>
+	<phrase weight="3.522160258291752E-4" count="6">diverse kind</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">sun rise</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">flee wood</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">man woman child</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">cloth gold</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">country call</phrase>
+	<phrase weight="2.93513354857646E-4" count="5">call great</phrase>
+  </topic>
+  <topic id="9" alpha="0.09991989864782021" totalTokens="50153" titles="clock morning, day, wind, come, land, sail, league, night, shore, see">
+	<word weight="0.027994337327777" count="1404">day</word>
+	<word weight="0.02336849241321556" count="1172">wind</word>
+	<word weight="0.02197276334416685" count="1102">come</word>
+	<word weight="0.019819352780491694" count="994">land</word>
+	<word weight="0.015612226586644866" count="783">sail</word>
+	<word weight="0.014714972185113553" count="738">league</word>
+	<word weight="0.014276314477698244" count="716">night</word>
+	<word weight="0.0135186329830718" count="678">shore</word>
+	<word weight="0.012063086953921002" count="605">see</word>
+	<word weight="0.011724124180009171" count="588">boat</word>
+	<word weight="0.011165832552389688" count="560">water</word>
+	<word weight="0.011125954578988295" count="558">ship</word>
+	<word weight="0.010049249297150719" count="504">find</word>
+	<word weight="0.009809981456742368" count="492">island</word>
+	<word weight="0.00931150678922497" count="467">great</word>
+	<word weight="0.008653520228102007" count="434">morning</word>
+	<word weight="0.00849400833449644" count="426">ice</word>
+	<word weight="0.008314557454190179" count="417">clock</word>
+	<word weight="0.00825474049408809" count="414">anchor</word>
+	<word weight="0.00811516758718322" count="407">sound</word>
+	<word weight="0.007935716706876957" count="398">fathom</word>
+	<word weight="0.007536936972863039" count="378">west</word>
+	<word weight="0.00743724203935956" count="373">north</word>
+	<word weight="0.007018523318644947" count="352">south</word>
+	<word weight="0.0069786453452435546" count="350">place</word>
+	<word weight="0.006839072438338684" count="343">course</word>
+	<word weight="0.006599804597930333" count="331">east</word>
+	<word weight="0.006559926624528941" count="329">coast</word>
+	<word weight="0.005662672222997627" count="284">say</word>
+	<word weight="0.0055031603293920605" count="276">lie</word>
+	<word weight="0.005283831475684406" count="265">set</word>
+	<word weight="0.0052638924889837095" count="264">degree</word>
+	<word weight="0.0052638924889837095" count="264">half</word>
+	<word weight="0.00516419755548023" count="259">saint</word>
+	<word weight="0.005064502621976751" count="254">make</word>
+	<word weight="0.005044563635276055" count="253">sun</word>
+	<word weight="0.004964807688473272" count="249">noon</word>
+	<word weight="0.00492492971507188" count="247">fair</word>
+	<word weight="0.0048850517416704885" count="245">depart</word>
+	<word weight="0.004745478834765617" count="238">cape</word>
+	<word weight="0.00468566187466353" count="235">sight</word>
+	<word weight="0.0046457839012621375" count="233">bear</word>
+	<word weight="0.004605905927860746" count="231">northwest</word>
+	<word weight="0.004605905927860746" count="231">river</word>
+	<word weight="0.004546088967758658" count="228">good</word>
+	<word weight="0.004486272007656571" count="225">rock</word>
+	<word weight="0.004426455047554483" count="222">small</word>
+	<word weight="0.004366638087452396" count="219">weather</word>
+	<word weight="0.004167248220445437" count="209">afternoon</word>
+	<word weight="0.004127370247044045" count="207">near</word>
+	<phrase weight="0.0029918791850690983" count="21">clock morning</phrase>
+	<phrase weight="0.0024219974355321272" count="17">clock afternoon</phrase>
+	<phrase weight="0.0017096452486109132" count="12">set sail</phrase>
+	<phrase weight="0.0017096452486109132" count="12">fresh water</phrase>
+	<phrase weight="0.0014247043738424277" count="10">make sign</phrase>
+	<phrase weight="0.0014247043738424277" count="10">firm land</phrase>
+	<phrase weight="0.001282233936458185" count="9">contrary wind</phrase>
+	<phrase weight="0.0011397634990739421" count="8">degree minute</phrase>
+	<phrase weight="0.0011397634990739421" count="8">near shore</phrase>
+	<phrase weight="0.0011397634990739421" count="8">gale wind</phrase>
+	<phrase weight="0.0011397634990739421" count="8">fathom water</phrase>
+	<phrase weight="0.0011397634990739421" count="8">come near</phrase>
+	<phrase weight="0.0011397634990739421" count="8">day morning</phrase>
+	<phrase weight="0.0011397634990739421" count="8">day night</phrase>
+	<phrase weight="9.972930616896994E-4" count="7">sight land</phrase>
+	<phrase weight="9.972930616896994E-4" count="7">hoist sail</phrase>
+	<phrase weight="9.972930616896994E-4" count="7">anne francis</phrase>
+	<phrase weight="8.548226243054566E-4" count="6">great store</phrase>
+	<phrase weight="8.548226243054566E-4" count="6">east west</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">wind blow</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">come land</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">sail sail</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">cast anchor</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">day come</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">small boat</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">boat shore</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">sound fathom</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">fog mist</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">come shore</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">countess sound</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">clock night</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">see land</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">day july</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">come anchor</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">fair weather</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">league shore</phrase>
+	<phrase weight="7.123521869212138E-4" count="5">league land</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">ebb flow</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">early morning</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">boat come</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">wind contrary</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">day see</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">buss bridgewater</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">land league</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">day day</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">shore come</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">wind weather</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">francis preciado</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">come boat</phrase>
+	<phrase weight="5.698817495369711E-4" count="4">wind scant</phrase>
+  </topic>
+  <topic id="10" alpha="0.013950035521641332" totalTokens="9335" titles="river, guiana, spaniard, gold, call, nation, berreo, trinidad, far, mouth">
+	<word weight="0.048312801285484736" count="451">river</word>
+	<word weight="0.01906802356722014" count="178">guiana</word>
+	<word weight="0.017568291376539903" count="164">spaniard</word>
+	<word weight="0.016389930369576863" count="153">gold</word>
+	<word weight="0.013711837171933583" count="128">call</word>
+	<word weight="0.013176218532404927" count="123">nation</word>
+	<word weight="0.011783610069630423" count="110">berreo</word>
+	<word weight="0.009319764327798607" count="87">trinidad</word>
+	<word weight="0.00867702196036422" count="81">far</word>
+	<word weight="0.00856989823245849" count="80">mouth</word>
+	<word weight="0.008462774504552758" count="79">orenoque</word>
+	<word weight="0.007820032137118372" count="73">province</word>
+	<word weight="0.007284413497589716" count="68">indians</word>
+	<word weight="0.006963042313872523" count="65">fall</word>
+	<word weight="0.00674879485806106" count="63">indies</word>
+	<word weight="0.006213176218532405" count="58">indian</word>
+	<word weight="0.006106052490626674" count="57">pass</word>
+	<word weight="0.0059989287627209426" count="56">canoas</word>
+	<word weight="0.0059989287627209426" count="56">mountain</word>
+	<word weight="0.00578468130690948" count="54">country</word>
+	<word weight="0.005677557579003749" count="53">discovery</word>
+	<word weight="0.005677557579003749" count="53">west</word>
+	<word weight="0.005677557579003749" count="53">empire</word>
+	<word weight="0.005463310123192287" count="51">town</word>
+	<word weight="0.005463310123192287" count="51">way</word>
+	<word weight="0.005356186395286556" count="50">diverse</word>
+	<word weight="0.005249062667380825" count="49">year</word>
+	<word weight="0.005141938939475094" count="48">branch</word>
+	<word weight="0.0050348152115693625" count="47">great</word>
+	<word weight="0.004927691483663631" count="46">mile</word>
+	<word weight="0.004713444027852169" count="44">dorado</word>
+	<word weight="0.004713444027852169" count="44">name</word>
+	<word weight="0.004606320299946438" count="43">peru</word>
+	<word weight="0.004606320299946438" count="43">return</word>
+	<word weight="0.004499196572040707" count="42">carapana</word>
+	<word weight="0.004499196572040707" count="42">amazones</word>
+	<word weight="0.004499196572040707" count="42">trade</word>
+	<word weight="0.004499196572040707" count="42">island</word>
+	<word weight="0.004284949116229245" count="40">journey</word>
+	<word weight="0.0041778253883235136" count="39">city</word>
+	<word weight="0.0040707016604177824" count="38">enter</word>
+	<word weight="0.0040707016604177824" count="38">east</word>
+	<word weight="0.003963577932512051" count="37">nuevo</word>
+	<word weight="0.003749330476700589" count="35">manoa</word>
+	<word weight="0.003749330476700589" count="35">leave</word>
+	<word weight="0.003749330476700589" count="35">port</word>
+	<word weight="0.003749330476700589" count="35">discover</word>
+	<word weight="0.003749330476700589" count="35">kingdom</word>
+	<word weight="0.003535083020889127" count="33">morequito</word>
+	<word weight="0.003535083020889127" count="33">lake</word>
+	<phrase weight="0.004750593824228029" count="8">river orenoque</phrase>
+	<phrase weight="0.0035629453681710215" count="6">west indies</phrase>
+	<phrase weight="0.0029691211401425177" count="5">nuevo reyno</phrase>
+	<phrase weight="0.0023752969121140144" count="4">spanish nation</phrase>
+	<phrase weight="0.0023752969121140144" count="4">walter ralegh</phrase>
+	<phrase weight="0.0017814726840855108" count="3">desire gold</phrase>
+	<phrase weight="0.0017814726840855108" count="3">city inga</phrase>
+	<phrase weight="0.0017814726840855108" count="3">plenty gold</phrase>
+	<phrase weight="0.0017814726840855108" count="3">aurea anus</phrase>
+	<phrase weight="0.0017814726840855108" count="3">rodrigo caranza</phrase>
+	<phrase weight="0.0011876484560570072" count="2">captain gifford</phrase>
+	<phrase weight="0.0011876484560570072" count="2">marannon amazones</phrase>
+	<phrase weight="0.0011876484560570072" count="2">river lagartos</phrase>
+	<phrase weight="0.0011876484560570072" count="2">river name</phrase>
+	<phrase weight="0.0011876484560570072" count="2">empire kingdom</phrase>
+	<phrase weight="0.0011876484560570072" count="2">borracheras drunken</phrase>
+	<phrase weight="0.0011876484560570072" count="2">breeze easterly</phrase>
+	<phrase weight="0.0011876484560570072" count="2">puerto espannole</phrase>
+	<phrase weight="0.0011876484560570072" count="2">crimson carnation</phrase>
+	<phrase weight="0.0011876484560570072" count="2">river amazones</phrase>
+	<phrase weight="0.0011876484560570072" count="2">river obi</phrase>
+	<phrase weight="0.0011876484560570072" count="2">rich beautiful empire guiana</phrase>
+	<phrase weight="0.0011876484560570072" count="2">barge leave</phrase>
+	<phrase weight="0.0011876484560570072" count="2">mouth river</phrase>
+	<phrase weight="0.0011876484560570072" count="2">jacob whiddon</phrase>
+	<phrase weight="0.0011876484560570072" count="2">calfield whery</phrase>
+	<phrase weight="0.0011876484560570072" count="2">river amazones orellana</phrase>
+	<phrase weight="0.0011876484560570072" count="2">nepoios follower carapana</phrase>
+	<phrase weight="0.0011876484560570072" count="2">enemy spaniard</phrase>
+	<phrase weight="0.0011876484560570072" count="2">abundance gold</phrase>
+	<phrase weight="0.0011876484560570072" count="2">north east</phrase>
+	<phrase weight="0.0011876484560570072" count="2">barge wherry</phrase>
+	<phrase weight="0.0011876484560570072" count="2">cousin butshead gorges</phrase>
+	<phrase weight="0.0011876484560570072" count="2">border aromaia</phrase>
+	<phrase weight="0.0011876484560570072" count="2">morequito slay</phrase>
+	<phrase weight="0.0011876484560570072" count="2">town guiana</phrase>
+	<phrase weight="0.0011876484560570072" count="2">nuevo dorado</phrase>
+	<phrase weight="0.0011876484560570072" count="2">great river</phrase>
+	<phrase weight="0.0011876484560570072" count="2">trinidad canoas</phrase>
+	<phrase weight="0.0011876484560570072" count="2">diego ordas</phrase>
+	<phrase weight="0.0011876484560570072" count="2">canoa indians</phrase>
+	<phrase weight="0.0011876484560570072" count="2">east indies</phrase>
+	<phrase weight="0.0011876484560570072" count="2">barge whery</phrase>
+	<phrase weight="0.0011876484560570072" count="2">attempt guiana</phrase>
+	<phrase weight="0.0011876484560570072" count="2">call wacarima</phrase>
+	<phrase weight="0.0011876484560570072" count="2">province aromaia</phrase>
+	<phrase weight="0.0011876484560570072" count="2">enter river</phrase>
+	<phrase weight="0.0011876484560570072" count="2">captain whiddon</phrase>
+	<phrase weight="0.0011876484560570072" count="2">george gifford</phrase>
+	<phrase weight="0.0011876484560570072" count="2">describe country</phrase>
+  </topic>
+  <topic id="11" alpha="0.014203766883427402" totalTokens="16960" titles="island, thing, say, esse, quod, man, year, haec, nation, bishop">
+	<word weight="0.011143867924528301" count="189">island</word>
+	<word weight="0.007429245283018868" count="126">thing</word>
+	<word weight="0.007016509433962264" count="119">say</word>
+	<word weight="0.007016509433962264" count="119">esse</word>
+	<word weight="0.006662735849056604" count="113">quod</word>
+	<word weight="0.004893867924528302" count="83">man</word>
+	<word weight="0.004599056603773585" count="78">year</word>
+	<word weight="0.004422169811320755" count="75">haec</word>
+	<word weight="0.004363207547169811" count="74">nation</word>
+	<word weight="0.004186320754716981" count="71">bishop</word>
+	<word weight="0.004009433962264151" count="68">islander</word>
+	<word weight="0.003891509433962264" count="66">certain</word>
+	<word weight="0.0037735849056603774" count="64">islandia</word>
+	<word weight="0.003714622641509434" count="63">common</word>
+	<word weight="0.003537735849056604" count="60">mountain</word>
+	<word weight="0.0033608490566037737" count="57">concern</word>
+	<word weight="0.003242924528301887" count="55">islandiae</word>
+	<word weight="0.0030070754716981134" count="51">munster</word>
+	<word weight="0.00294811320754717" count="50">fire</word>
+	<word weight="0.00294811320754717" count="50">time</word>
+	<word weight="0.00294811320754717" count="50">namely</word>
+	<word weight="0.00294811320754717" count="50">anno</word>
+	<word weight="0.002889150943396226" count="49">hecla</word>
+	<word weight="0.002889150943396226" count="49">writer</word>
+	<word weight="0.002889150943396226" count="49">fountain</word>
+	<word weight="0.002830188679245283" count="48">matter</word>
+	<word weight="0.0027712264150943394" count="47">krantzius</word>
+	<word weight="0.002712264150943396" count="46">munsterus</word>
+	<word weight="0.0023584905660377358" count="40">ice</word>
+	<word weight="0.0023584905660377358" count="40">water</word>
+	<word weight="0.0023584905660377358" count="40">report</word>
+	<word weight="0.0022995283018867924" count="39">frisius</word>
+	<word weight="0.002240566037735849" count="38">reproach</word>
+	<word weight="0.002240566037735849" count="38">nostra</word>
+	<word weight="0.002240566037735849" count="38">author</word>
+	<word weight="0.002240566037735849" count="38">write</word>
+	<word weight="0.0021816037735849056" count="37">section</word>
+	<word weight="0.0021816037735849056" count="37">law</word>
+	<word weight="0.0021226415094339622" count="36">christ</word>
+	<word weight="0.002063679245283019" count="35">name</word>
+	<word weight="0.0020047169811320755" count="34">jam</word>
+	<word weight="0.0020047169811320755" count="34">huius</word>
+	<word weight="0.001945754716981132" count="33">moritur</word>
+	<word weight="0.001945754716981132" count="33">norway</word>
+	<word weight="0.0018867924528301887" count="32">hanc</word>
+	<word weight="0.0018867924528301887" count="32">truth</word>
+	<word weight="0.0018867924528301887" count="32">church</word>
+	<word weight="0.0018867924528301887" count="32">christi</word>
+	<word weight="0.0018278301886792453" count="31">burn</word>
+	<word weight="0.0018278301886792453" count="31">see</word>
+	<phrase weight="8.542141230068337E-4" count="3">islander live</phrase>
+	<phrase weight="8.542141230068337E-4" count="3">munster krantzius</phrase>
+	<phrase weight="8.542141230068337E-4" count="3">common wealth</phrase>
+	<phrase weight="8.542141230068337E-4" count="3">credit author</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">rei periculum</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">pietatis honestatis</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">infamous libel</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">forte aliquando</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">truth experience</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">divinitatis personam</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">part island</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">frisius write</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">teach man</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">inquam haec</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">dog mouse</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">friendly reader</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">isaac gen</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">quid verb</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">adultery man</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">erasinus argolica tigris</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">truth falsehood</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">mount hecla</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">mappa islandiae</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">die consecrate</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">everlasting ignominy</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">cathedram holensem</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">nation inhabit</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">time year</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">oldenburg delmenhorst</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">naturali affection</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">time bishop</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">error writer</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">scriptorum hac</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">nostrae gentis</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">captura piscium victitant</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">verum johan</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">damn soul</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">scis collis</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">pessima quaeque</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">thirte nadar</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">concern island</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">copen hagen</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">bishop island</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">haec thyle</phrase>
+	<phrase weight="5.694760820045558E-4" count="2">commentary island</phrase>
+	<phrase weight="2.847380410022779E-4" count="1">ultimos islandos</phrase>
+	<phrase weight="2.847380410022779E-4" count="1">island say</phrase>
+	<phrase weight="2.847380410022779E-4" count="1">spirit fire flow river cast forth</phrase>
+	<phrase weight="2.847380410022779E-4" count="1">hitherto abstain</phrase>
+	<phrase weight="2.847380410022779E-4" count="1">krantzius munsterus</phrase>
+  </topic>
+  <topic id="12" alpha="0.14101257412622825" totalTokens="24050" titles="french king, year, great, city, kingdom, prince, man, war, island, english">
+	<word weight="0.055883575883575884" count="1344">king</word>
+	<word weight="0.01812889812889813" count="436">year</word>
+	<word weight="0.010228690228690229" count="246">great</word>
+	<word weight="0.010187110187110188" count="245">city</word>
+	<word weight="0.009604989604989605" count="231">kingdom</word>
+	<word weight="0.009355509355509356" count="225">prince</word>
+	<word weight="0.008440748440748441" count="203">man</word>
+	<word weight="0.008357588357588357" count="201">war</word>
+	<word weight="0.006237006237006237" count="150">land</word>
+	<word weight="0.006237006237006237" count="150">island</word>
+	<word weight="0.006237006237006237" count="150">english</word>
+	<word weight="0.006153846153846154" count="148">call</word>
+	<word weight="0.006112266112266112" count="147">lord</word>
+	<word weight="0.00607068607068607" count="146">province</word>
+	<word weight="0.005904365904365904" count="142">duke</word>
+	<word weight="0.005862785862785862" count="141">take</word>
+	<word weight="0.005738045738045738" count="138">father</word>
+	<word weight="0.005488565488565488" count="132">say</word>
+	<word weight="0.005405405405405406" count="130">slay</word>
+	<word weight="0.0052806652806652804" count="127">england</word>
+	<word weight="0.005239085239085239" count="126">army</word>
+	<word weight="0.005155925155925156" count="124">richard</word>
+	<word weight="0.005114345114345114" count="123">peace</word>
+	<word weight="0.005031185031185031" count="121">noble</word>
+	<word weight="0.004906444906444906" count="118">nation</word>
+	<word weight="0.004823284823284823" count="116">china</word>
+	<word weight="0.004823284823284823" count="116">christian</word>
+	<word weight="0.004781704781704782" count="115">day</word>
+	<word weight="0.004781704781704782" count="115">soldier</word>
+	<word weight="0.004449064449064449" count="107">french</word>
+	<word weight="0.004324324324324324" count="104">emperor</word>
+	<word weight="0.004241164241164241" count="102">come</word>
+	<word weight="0.004158004158004158" count="100">journey</word>
+	<word weight="0.004033264033264033" count="97">earl</word>
+	<word weight="0.004033264033264033" count="97">henry</word>
+	<word weight="0.003866943866943867" count="93">brother</word>
+	<word weight="0.0037006237006237007" count="89">reign</word>
+	<word weight="0.003659043659043659" count="88">diverse</word>
+	<word weight="0.0035343035343035345" count="85">first</word>
+	<word weight="0.003367983367983368" count="81">magistrate</word>
+	<word weight="0.003284823284823285" count="79">battle</word>
+	<word weight="0.003243243243243243" count="78">castle</word>
+	<word weight="0.003243243243243243" count="78">bishop</word>
+	<word weight="0.0032016632016632018" count="77">honour</word>
+	<word weight="0.00316008316008316" count="76">name</word>
+	<word weight="0.003076923076923077" count="74">life</word>
+	<word weight="0.003076923076923077" count="74">time</word>
+	<word weight="0.003035343035343035" count="73">holy</word>
+	<word weight="0.003035343035343035" count="73">length</word>
+	<word weight="0.002993762993762994" count="72">send</word>
+	<phrase weight="0.006046645551396487" count="21">french king</phrase>
+	<phrase weight="0.005470774546501584" count="19">king richard</phrase>
+	<phrase weight="0.002303484019579614" count="8">king henry</phrase>
+	<phrase weight="0.0020155485171321624" count="7">king edward</phrase>
+	<phrase weight="0.0017276130146847107" count="6">king england</phrase>
+	<phrase weight="0.0017276130146847107" count="6">king armenia</phrase>
+	<phrase weight="0.0017276130146847107" count="6">christian faith</phrase>
+	<phrase weight="0.0017276130146847107" count="6">kingdom china</phrase>
+	<phrase weight="0.0014396775122372588" count="5">lib cap</phrase>
+	<phrase weight="0.0014396775122372588" count="5">english voyage</phrase>
+	<phrase weight="0.0014396775122372588" count="5">henry king</phrase>
+	<phrase weight="0.0014396775122372588" count="5">kingdom coray</phrase>
+	<phrase weight="0.001151742009789807" count="4">battle fight</phrase>
+	<phrase weight="0.001151742009789807" count="4">city achon</phrase>
+	<phrase weight="0.001151742009789807" count="4">prince edward</phrase>
+	<phrase weight="0.001151742009789807" count="4">year lord</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">emperor constantinople</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">king polonia</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">year year</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">duke burgundy</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">nobility gentry</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">pope legate</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">war province</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">king philip</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">year reign</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">king jerusalem</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">christian prince</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">city sagitta</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">polonian king</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">king prince</phrase>
+	<phrase weight="8.638065073423554E-4" count="3">holy land</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">peace year</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">martial discipline</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">book history</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">nation tartar</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">cruel tyrant</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">king edward confessor</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">earl rosse</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">city castle</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">bishop sarisburie</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">chief city</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">english man</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">multitude saracen</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">peace tranquillity</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">roman emperor</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">william conqueror</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">prince christendom</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">king richard king richard</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">isle patric</phrase>
+	<phrase weight="5.758710048949035E-4" count="2">gift king</phrase>
+  </topic>
+  <topic id="13" alpha="0.06384798223519371" totalTokens="35495" titles="river, say, come, indians, great, certain, country, league, king, captain">
+	<word weight="0.02290463445555712" count="813">river</word>
+	<word weight="0.022622904634455557" count="803">say</word>
+	<word weight="0.02211579095647274" count="785">come</word>
+	<word weight="0.018368784335821946" count="652">indians</word>
+	<word weight="0.013748415269756304" count="488">great</word>
+	<word weight="0.013466685448654741" count="478">certain</word>
+	<word weight="0.013353993520214115" count="474">country</word>
+	<word weight="0.013128609663332864" count="466">league</word>
+	<word weight="0.013100436681222707" count="465">king</word>
+	<word weight="0.011410057754613326" count="405">captain</word>
+	<word weight="0.009776024792224256" count="347">spaniard</word>
+	<word weight="0.009719678828003944" count="345">town</word>
+	<word weight="0.0092970840963516" count="330">find</word>
+	<word weight="0.009156219185800818" count="325">call</word>
+	<word weight="0.009043527257360191" count="321">take</word>
+	<word weight="0.008733624454148471" count="310">send</word>
+	<word weight="0.007832089026623468" count="278">day</word>
+	<word weight="0.007015072545428934" count="249">indian</word>
+	<word weight="0.0069868995633187774" count="248">way</word>
+	<word weight="0.006902380616988308" count="245">see</word>
+	<word weight="0.006817861670657839" count="242">return</word>
+	<word weight="0.0067051697422172134" count="238">mexico</word>
+	<word weight="0.00650795886744612" count="231">city</word>
+	<word weight="0.0064516129032258064" count="229">land</word>
+	<word weight="0.006367093956895337" count="226">mountain</word>
+	<word weight="0.006310747992675025" count="224">ship</word>
+	<word weight="0.006254402028454712" count="222">soldier</word>
+	<word weight="0.0061980560642343994" count="220">give</word>
+	<word weight="0.0061698830821242424" count="219">people</word>
+	<word weight="0.006141710100014086" count="218">make</word>
+	<word weight="0.006057191153683617" count="215">place</word>
+	<word weight="0.005888153261022679" count="209">pass</word>
+	<word weight="0.00580363431469221" count="206">man</word>
+	<word weight="0.0056627694041414284" count="201">fort</word>
+	<word weight="0.005634596422031272" count="200">tell</word>
+	<word weight="0.005606423439921115" count="199">spain</word>
+	<word weight="0.005521904493590647" count="196">discover</word>
+	<word weight="0.005521904493590647" count="196">bring</word>
+	<word weight="0.00549373151148049" count="195">leave</word>
+	<word weight="0.005465558529370334" count="194">carry</word>
+	<word weight="0.0053810395830398644" count="191">coast</word>
+	<word weight="0.0051274827440484574" count="182">begin</word>
+	<word weight="0.005071136779828145" count="180">thing</word>
+	<word weight="0.005014790815607832" count="178">stay</word>
+	<word weight="0.004902098887167207" count="174">victual</word>
+	<word weight="0.0048739259050570504" count="173">peru</word>
+	<word weight="0.004704888012396112" count="167">store</word>
+	<word weight="0.004676715030285956" count="166">good</word>
+	<word weight="0.004535850119735174" count="161">voyage</word>
+	<word weight="0.004282293280743767" count="152">house</word>
+	<phrase weight="0.002594706798131811" count="15">nueva espanna</phrase>
+	<phrase weight="0.0019027849852966616" count="11">say river</phrase>
+	<phrase weight="0.0015568240788790867" count="9">day journey</phrase>
+	<phrase weight="0.0015568240788790867" count="9">nova hispania</phrase>
+	<phrase weight="0.0013838436256702993" count="8">taignoagny domagaia</phrase>
+	<phrase weight="0.0013838436256702993" count="8">indians come</phrase>
+	<phrase weight="0.0013838436256702993" count="8">great store</phrase>
+	<phrase weight="0.0013838436256702993" count="8">king spain</phrase>
+	<phrase weight="0.0012108631724615118" count="7">santa cruz</phrase>
+	<phrase weight="0.0012108631724615118" count="7">river plate</phrase>
+	<phrase weight="0.0012108631724615118" count="7">city mexico</phrase>
+	<phrase weight="0.0010378827192527244" count="6">certain indians</phrase>
+	<phrase weight="0.0010378827192527244" count="6">river league</phrase>
+	<phrase weight="0.0010378827192527244" count="6">mouth river</phrase>
+	<phrase weight="0.0010378827192527244" count="6">vera cruz</phrase>
+	<phrase weight="0.0010378827192527244" count="6">league distant</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">rio grande</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">return back</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">come ship</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">return france</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">river find</phrase>
+	<phrase weight="8.649022660439371E-4" count="5">mighty river</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">villa nova</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">king france</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">viceroy peru</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">come spain</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">gold silver</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">pedro sarmiento</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">say captain</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">league town</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">pass river</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">find indian</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">river four</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">league mexico</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">coast brasill</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">come river</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">leave behind</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">ouae utina</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">mantle cotton</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">hernando cortes</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">captain ribault</phrase>
+	<phrase weight="6.919218128351496E-4" count="4">great fear</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">captain gourgues</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">cover snow</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">river river</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">squadron indians</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">discover certain</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">fort build</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">river send</phrase>
+	<phrase weight="5.189413596263622E-4" count="3">say tomson</phrase>
+  </topic>
+  <topic id="14" alpha="0.11705990979940034" totalTokens="25034" titles="part, land, voyage, find, coast, country, discover, degree, commodity, discovery">
+	<word weight="0.014300551250299592" count="358">part</word>
+	<word weight="0.01210353918670608" count="303">land</word>
+	<word weight="0.011943756491172006" count="299">voyage</word>
+	<word weight="0.010785331948549972" count="270">find</word>
+	<word weight="0.010545657905248862" count="264">coast</word>
+	<word weight="0.009746744427578493" count="244">country</word>
+	<word weight="0.009547016058160902" count="239">discover</word>
+	<word weight="0.009187504993209236" count="230">degree</word>
+	<word weight="0.00806902612447072" count="202">commodity</word>
+	<word weight="0.00806902612447072" count="202">discovery</word>
+	<word weight="0.00806902612447072" count="202">island</word>
+	<word weight="0.007909243428936646" count="198">year</word>
+	<word weight="0.007230166972916833" count="181">north</word>
+	<word weight="0.006870655907965167" count="172">region</word>
+	<word weight="0.006591036190780539" count="165">world</word>
+	<word weight="0.006591036190780539" count="165">england</word>
+	<word weight="0.0061516337780618355" count="154">passage</word>
+	<word weight="0.0061116881041783176" count="153">english</word>
+	<word weight="0.006031796756411281" count="151">america</word>
+	<word weight="0.005991851082527762" count="150">west</word>
+	<word weight="0.005911959734760726" count="148">say</word>
+	<word weight="0.005672285691459615" count="142">first</word>
+	<word weight="0.005592394343692578" count="140">heat</word>
+	<word weight="0.005432611648158505" count="136">people</word>
+	<word weight="0.005312774626507949" count="133">thing</word>
+	<word weight="0.005272828952624431" count="132">far</word>
+	<word weight="0.005232883278740912" count="131">way</word>
+	<word weight="0.005192937604857394" count="130">reason</word>
+	<word weight="0.00503315490932332" count="126">cold</word>
+	<word weight="0.004833426539905728" count="121">equinoctial</word>
+	<word weight="0.004673643844371655" count="117">sun</word>
+	<word weight="0.004633698170488136" count="116">plant</word>
+	<word weight="0.004433969801070544" count="111">portugal</word>
+	<word weight="0.004433969801070544" count="111">navigation</word>
+	<word weight="0.0043540784533035075" count="109">east</word>
+	<word weight="0.004234241431652952" count="106">know</word>
+	<word weight="0.004234241431652952" count="106">prove</word>
+	<word weight="0.004194295757769434" count="105">set</word>
+	<word weight="0.003994567388351841" count="100">use</word>
+	<word weight="0.003914676040584804" count="98">africa</word>
+	<word weight="0.0037948390189342495" count="95">pole</word>
+	<word weight="0.0037948390189342495" count="95">certain</word>
+	<word weight="0.003635056323400176" count="91">indies</word>
+	<word weight="0.003635056323400176" count="91">make</word>
+	<word weight="0.0035951106495166574" count="90">trade</word>
+	<word weight="0.0035152193017496205" count="88">experience</word>
+	<word weight="0.0035152193017496205" count="88">winter</word>
+	<word weight="0.0034353279539825836" count="86">card</word>
+	<word weight="0.0034353279539825836" count="86">realm</word>
+	<word weight="0.0034353279539825836" count="86">sail</word>
+	<phrase weight="0.002701242571582928" count="10">english voyage</phrase>
+	<phrase weight="0.002701242571582928" count="10">west indies</phrase>
+	<phrase weight="0.0024311183144246355" count="9">meridian altitude</phrase>
+	<phrase weight="0.0018908698001080498" count="7">humphrey gilbert</phrase>
+	<phrase weight="0.0018908698001080498" count="7">latitude degree</phrase>
+	<phrase weight="0.0018908698001080498" count="7">meta incognita</phrase>
+	<phrase weight="0.0016207455429497568" count="6">heat sun</phrase>
+	<phrase weight="0.0016207455429497568" count="6">material original position</phrase>
+	<phrase weight="0.0016207455429497568" count="6">degree latitude</phrase>
+	<phrase weight="0.001350621285791464" count="5">north pole</phrase>
+	<phrase weight="0.001350621285791464" count="5">temperate climate</phrase>
+	<phrase weight="0.001350621285791464" count="5">ample vent</phrase>
+	<phrase weight="0.001350621285791464" count="5">christopher columbus</phrase>
+	<phrase weight="0.0010804970286331713" count="4">cold region</phrase>
+	<phrase weight="0.0010804970286331713" count="4">east west</phrase>
+	<phrase weight="0.0010804970286331713" count="4">continent america</phrase>
+	<phrase weight="0.0010804970286331713" count="4">torrida zona</phrase>
+	<phrase weight="0.0010804970286331713" count="4">cambalu quinsay</phrase>
+	<phrase weight="0.0010804970286331713" count="4">part world</phrase>
+	<phrase weight="0.0010804970286331713" count="4">coast america</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">equinoctial line</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">baptista ramusius</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">newfound land</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">middle zone</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">alongst coast</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">western discovery</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">northern coast</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">heat cold</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">sir humphrey gilbert</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">cold air</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">nicholas burgoignon</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">part america</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">earthly paradise</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">vent clothes</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">trade merchandise</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">sebastian cabot</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">degree longitude</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">richard hakluyt</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">tropic cancer</phrase>
+	<phrase weight="8.103727714748784E-4" count="3">voyage guinea</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">england part</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">diverse kind</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">sun horizon</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">www cambridge.org</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">conjecture reason</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">card coast</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">eighty degree</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">america island</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">north part</phrase>
+	<phrase weight="5.402485143165856E-4" count="2">country america</phrase>
+  </topic>
+  <topic id="15" alpha="0.21634636301324653" totalTokens="80749" titles="ship, come, fresh water, english voyage, come aboard, man, day, take, captain, master">
+	<word weight="0.03383323632490805" count="2732">ship</word>
+	<word weight="0.031145896543610448" count="2515">come</word>
+	<word weight="0.023455398828468463" count="1894">man</word>
+	<word weight="0.023244869905509665" count="1877">day</word>
+	<word weight="0.019727798486668564" count="1593">take</word>
+	<word weight="0.011839155902859479" count="956">captain</word>
+	<word weight="0.010501678039356525" count="848">master</word>
+	<word weight="0.008953671252894773" count="723">boat</word>
+	<word weight="0.00891651909001969" count="720">sail</word>
+	<word weight="0.008866982872852914" count="716">shore</word>
+	<word weight="0.008408772864060237" count="679">send</word>
+	<word weight="0.008384004755476848" count="677">night</word>
+	<word weight="0.008123939615351274" count="656">aboard</word>
+	<word weight="0.007839106366642312" count="633">town</word>
+	<word weight="0.007393280412141327" count="597">depart</word>
+	<word weight="0.007034142837682201" count="568">company</word>
+	<word weight="0.006897918240473566" count="557">water</word>
+	<word weight="0.0067493095889732384" count="545">find</word>
+	<word weight="0.006588316883181216" count="532">island</word>
+	<word weight="0.006179643091555313" count="499">set</word>
+	<word weight="0.006130106874388537" count="495">pinnace</word>
+	<word weight="0.006117722820096844" count="494">john</word>
+	<word weight="0.0060186503857632915" count="486">voyage</word>
+	<word weight="0.005969114168596515" count="482">portugal</word>
+	<word weight="0.005907193897138045" count="477">anchor</word>
+	<word weight="0.005733817137054329" count="463">generali</word>
+	<word weight="0.005411831725470284" count="437">wind</word>
+	<word weight="0.0053746795625952025" count="434">make</word>
+	<word weight="0.005362295508303508" count="433">put</word>
+	<word weight="0.005349911454011814" count="432">place</word>
+	<word weight="0.005300375236845038" count="428">bring</word>
+	<word weight="0.00527560712826165" count="426">hand</word>
+	<word weight="0.005263223073969956" count="425">time</word>
+	<word weight="0.0052384549653865685" count="423">admiral</word>
+	<word weight="0.005226070911094874" count="422">four</word>
+	<word weight="0.0051022303681779345" count="412">see</word>
+	<word weight="0.005040310096719464" count="407">land</word>
+	<word weight="0.004829781173760666" count="390">good</word>
+	<word weight="0.004792629010885584" count="387">english</word>
+	<word weight="0.004557331979343398" count="368">leave</word>
+	<word weight="0.004483027653593233" count="362">england</word>
+	<word weight="0.004383955219259681" count="354">give</word>
+	<word weight="0.004123890079134107" count="333">small</word>
+	<word weight="0.00395051331905039" count="319">spaniard</word>
+	<word weight="0.003925745210467003" count="317">negro</word>
+	<word weight="0.0038638249390085325" count="312">ton</word>
+	<word weight="0.0038638249390085325" count="312">shoot</word>
+	<word weight="0.0036656800703414286" count="296">coast</word>
+	<word weight="0.0036409119617580405" count="294">stand</word>
+	<word weight="0.0036409119617580405" count="294">call</word>
+	<phrase weight="0.0018042399639152007" count="24">fresh water</phrase>
+	<phrase weight="0.0018042399639152007" count="24">english voyage</phrase>
+	<phrase weight="0.0018042399639152007" count="24">come aboard</phrase>
+	<phrase weight="0.0015035333032626672" count="20">aboard ship</phrase>
+	<phrase weight="0.0015035333032626672" count="20">ship come</phrase>
+	<phrase weight="0.001428356638099534" count="19">come anchor</phrase>
+	<phrase weight="0.0012028266426101339" count="16">day night</phrase>
+	<phrase weight="0.0010524733122838671" count="14">foul weather</phrase>
+	<phrase weight="9.772966471207336E-4" count="13">set sail</phrase>
+	<phrase weight="9.021199819576004E-4" count="12">oure generali</phrase>
+	<phrase weight="8.26943316794467E-4" count="11">come near</phrase>
+	<phrase weight="8.26943316794467E-4" count="11">day come</phrase>
+	<phrase weight="8.26943316794467E-4" count="11">master ship</phrase>
+	<phrase weight="7.517666516313336E-4" count="10">captain master</phrase>
+	<phrase weight="6.765899864682003E-4" count="9">saint john</phrase>
+	<phrase weight="6.765899864682003E-4" count="9">six day</phrase>
+	<phrase weight="6.765899864682003E-4" count="9">four day</phrase>
+	<phrase weight="6.765899864682003E-4" count="9">sail ship</phrase>
+	<phrase weight="6.765899864682003E-4" count="9">english man</phrase>
+	<phrase weight="6.014133213050669E-4" count="8">piece ordinance</phrase>
+	<phrase weight="6.014133213050669E-4" count="8">ship depart</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">english ship</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">master mate</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">day day</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">put back</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">direct course</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">man come</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">shoot piece</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">ship take</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">john hawkins</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">take ship</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">ship lade</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">come town</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">ship ton</phrase>
+	<phrase weight="5.262366561419336E-4" count="7">come england</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">night come</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">take fresh</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">sierra leona</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">captain john</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">ship ship</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">night day</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">ship ride</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">saint lucar</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">trim ship</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">near shore</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">french ship</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">ship man</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">saint domingo</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">come island</phrase>
+	<phrase weight="4.510599909788002E-4" count="6">portugal come</phrase>
+  </topic>
+  <topic id="16" alpha="0.019345894716755054" totalTokens="22720" titles="say, quod, tunc, city, certain, ibi, illa, baatu, sicut, day">
+	<word weight="0.014788732394366197" count="336">say</word>
+	<word weight="0.014436619718309859" count="328">quod</word>
+	<word weight="0.007262323943661972" count="165">tunc</word>
+	<word weight="0.006558098591549296" count="149">city</word>
+	<word weight="0.0055897887323943666" count="127">certain</word>
+	<word weight="0.005017605633802817" count="114">ibi</word>
+	<word weight="0.004709507042253521" count="107">illa</word>
+	<word weight="0.004269366197183099" count="97">baatu</word>
+	<word weight="0.004049295774647887" count="92">sicut</word>
+	<word weight="0.0038732394366197184" count="88">day</word>
+	<word weight="0.003829225352112676" count="87">come</word>
+	<word weight="0.003785211267605634" count="86">journey</word>
+	<word weight="0.003697183098591549" count="84">foresay</word>
+	<word weight="0.003653169014084507" count="83">habet</word>
+	<word weight="0.0036091549295774648" count="82">usque</word>
+	<word weight="0.003477112676056338" count="79">qua</word>
+	<word weight="0.003433098591549296" count="78">sartach</word>
+	<word weight="0.0033890845070422533" count="77">eum</word>
+	<word weight="0.0031690140845070424" count="72">mihi</word>
+	<word weight="0.0031690140845070424" count="72">mare</word>
+	<word weight="0.0030809859154929575" count="70">illud</word>
+	<word weight="0.0030809859154929575" count="70">court</word>
+	<word weight="0.002992957746478873" count="68">sit</word>
+	<word weight="0.002992957746478873" count="68">ejus</word>
+	<word weight="0.002948943661971831" count="67">illius</word>
+	<word weight="0.0028609154929577466" count="65">versus</word>
+	<word weight="0.0028609154929577466" count="65">unum</word>
+	<word weight="0.0027288732394366196" count="62">unde</word>
+	<word weight="0.002640845070422535" count="60">quibus</word>
+	<word weight="0.002596830985915493" count="59">qudd</word>
+	<word weight="0.002596830985915493" count="59">tartar</word>
+	<word weight="0.0025528169014084508" count="58">suo</word>
+	<word weight="0.0024647887323943664" count="56">sva</word>
+	<word weight="0.0024207746478873238" count="55">frater</word>
+	<word weight="0.0024207746478873238" count="55">cart</word>
+	<word weight="0.0023767605633802816" count="54">sibi</word>
+	<word weight="0.0023327464788732394" count="53">meridiem</word>
+	<word weight="0.0023327464788732394" count="53">civitate</word>
+	<word weight="0.0023327464788732394" count="53">semper</word>
+	<word weight="0.0023327464788732394" count="53">ultra</word>
+	<word weight="0.002288732394366197" count="52">drink</word>
+	<word weight="0.002288732394366197" count="52">juxta</word>
+	<word weight="0.002244718309859155" count="51">friar</word>
+	<word weight="0.002244718309859155" count="51">vidi</word>
+	<word weight="0.002244718309859155" count="51">travel</word>
+	<word weight="0.002244718309859155" count="51">unam</word>
+	<word weight="0.0022007042253521128" count="50">nobis</word>
+	<word weight="0.0021566901408450706" count="49">esset</word>
+	<word weight="0.002112676056338028" count="48">homines</word>
+	<word weight="0.0020686619718309858" count="47">civitas</word>
+	<phrase weight="0.0021147237642083" count="8">day journey</phrase>
+	<phrase weight="0.00105736188210415" count="4">city world</phrase>
+	<phrase weight="0.00105736188210415" count="4">say city</phrase>
+	<phrase weight="0.00105736188210415" count="4">friar odoricus</phrase>
+	<phrase weight="7.930214115781126E-4" count="3">foresay city</phrase>
+	<phrase weight="7.930214115781126E-4" count="3">friar minorite</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">bind cart</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">come certain</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">unius cubiti</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">portant limas</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">porta ferrea</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">say nation</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">quando homo</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">court baatu</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">dixit quod</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">father say</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">east namely</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">baatu pass</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">north ocean</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">soothsayer diviner</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">eam magna</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">certain baron</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">city abundance</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">habet montes</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">moal tunc</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">dixit mihi</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">governor city</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">illud mare</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">socius meus</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">court sartach</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">illa qua</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">come court</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">illius regionis</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">say baptize</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">say idol</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">versus orientem</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">milk kine</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">certain priest</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">sex mensibus</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">sect nestorius</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">city come</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">miserere mei deus</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">court mangu</phrase>
+	<phrase weight="5.28680941052075E-4" count="2">provincia vult</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">bibendum faciunt</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">nigris principalis civitas sva murata pulcherrime lapidibus albissimis</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">clerk say</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">nervos minuta fila postea illa</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">clericus curiam sartach crastino</phrase>
+	<phrase weight="2.643404705260375E-4" count="1">kersova city saint</phrase>
+  </topic>
+  <topic id="17" alpha="0.0726271770240497" totalTokens="27289" titles="emperor russia, majesty, send, say, come, letter, merchant, day, country, ware">
+	<word weight="0.027007219025981164" count="737">emperor</word>
+	<word weight="0.017516215324856168" count="478">majesty</word>
+	<word weight="0.017296346513247095" count="472">send</word>
+	<word weight="0.014987723991351827" count="409">say</word>
+	<word weight="0.013302063102348933" count="363">russia</word>
+	<word weight="0.012056139836564183" count="329">come</word>
+	<word weight="0.011616402213346037" count="317">letter</word>
+	<word weight="0.01117666459012789" count="305">merchant</word>
+	<word weight="0.010553702957235516" count="288">day</word>
+	<word weight="0.010004030928212834" count="273">country</word>
+	<word weight="0.00971087251273407" count="265">ware</word>
+	<word weight="0.009600938106929533" count="262">good</word>
+	<word weight="0.008721462860493238" count="238">great</word>
+	<word weight="0.008501594048884165" count="232">moscow</word>
+	<word weight="0.007109091575360035" count="194">english</word>
+	<word weight="0.006815933159881271" count="186">ambassador</word>
+	<word weight="0.006596064348272198" count="180">astracan</word>
+	<word weight="0.006376195536663124" count="174">depart</word>
+	<word weight="0.006192971526988896" count="169">queen</word>
+	<word weight="0.005936457913444978" count="162">duke</word>
+	<word weight="0.005936457913444978" count="162">town</word>
+	<word weight="0.0057898787057055956" count="158">write</word>
+	<word weight="0.00575323390377075" count="157">persia</word>
+	<word weight="0.0056432994979662135" count="154">year</word>
+	<word weight="0.005276851478617758" count="144">city</word>
+	<word weight="0.005130272270878376" count="140">buy</word>
+	<word weight="0.005093627468943531" count="139">pass</word>
+	<word weight="0.0050203378650738395" count="137">house</word>
+	<word weight="0.004983693063138994" count="136">prince</word>
+	<word weight="0.004800469053464766" count="131">highness</word>
+	<word weight="0.004800469053464766" count="131">commodity</word>
+	<word weight="0.004800469053464766" count="131">call</word>
+	<word weight="0.004727179449595075" count="129">servant</word>
+	<word weight="0.004727179449595075" count="129">tartar</word>
+	<word weight="0.004727179449595075" count="129">company</word>
+	<word weight="0.004653889845725384" count="127">agent</word>
+	<word weight="0.004653889845725384" count="127">river</word>
+	<word weight="0.004617245043790538" count="126">ruff</word>
+	<word weight="0.004617245043790538" count="126">mile</word>
+	<word weight="0.004507310637986001" count="123">horse</word>
+	<word weight="0.00443402103411631" count="121">deliver</word>
+	<word weight="0.004324086628311774" count="118">sell</word>
+	<word weight="0.004287441826376928" count="117">give</word>
+	<word weight="0.004250797024442083" count="116">russes</word>
+	<word weight="0.004177507420572392" count="114">trade</word>
+	<word weight="0.0041042178167027005" count="112">nicholas</word>
+	<word weight="0.0041042178167027005" count="112">journey</word>
+	<word weight="0.0040309282128330095" count="110">colmogro</word>
+	<word weight="0.0040309282128330095" count="110">bring</word>
+	<word weight="0.003994283410898164" count="109">take</word>
+	<phrase weight="0.006776180698151951" count="33">emperor russia</phrase>
+	<phrase weight="0.0032854209445585215" count="16">queen majesty</phrase>
+	<phrase weight="0.003080082135523614" count="15">english merchant</phrase>
+	<phrase weight="0.003080082135523614" count="15">cazan astracan</phrase>
+	<phrase weight="0.002053388090349076" count="10">emperor majesty</phrase>
+	<phrase weight="0.002053388090349076" count="10">saint nicholas</phrase>
+	<phrase weight="0.0018480492813141684" count="9">boris pheodorowich</phrase>
+	<phrase weight="0.0016427104722792608" count="8">city moscow</phrase>
+	<phrase weight="0.001437371663244353" count="7">day journey</phrase>
+	<phrase weight="0.001437371663244353" count="7">mortus ali</phrase>
+	<phrase weight="0.0012320328542094457" count="6">please highness</phrase>
+	<phrase weight="0.001026694045174538" count="5">ruff emperor</phrase>
+	<phrase weight="0.001026694045174538" count="5">send ambassador</phrase>
+	<phrase weight="0.001026694045174538" count="5">arthur edwards</phrase>
+	<phrase weight="0.001026694045174538" count="5">buy sell</phrase>
+	<phrase weight="0.001026694045174538" count="5">majesty letter</phrase>
+	<phrase weight="0.001026694045174538" count="5">chetera bougori</phrase>
+	<phrase weight="0.001026694045174538" count="5">ware buy</phrase>
+	<phrase weight="0.001026694045174538" count="5">jerome horsey</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">queen mistress</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">emperor favour</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">raw silk</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">emperor persia</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">shaughs batman</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">trade country</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">garrard company</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">queen majesty letter</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">thomas banister</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">anthony jenkinson</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">send emperor</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">letter write</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">shalkan chancellor</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">letter send</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">emperor send</phrase>
+	<phrase weight="8.213552361396304E-4" count="4">duke moscovia</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">queen england</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">chief secretary</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">ruff tartar</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">godfather godmother</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">say bassa</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">mare caspium</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">city boghar</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">country iversky</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">nicholas russia</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">astracan cazan</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">arthur edward</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">chrim tartar</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">saint nicholas russia</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">depart moscow</phrase>
+	<phrase weight="6.160164271047228E-4" count="3">volga cazan</phrase>
+  </topic>
+  <topic id="18" alpha="0.06740825449754695" totalTokens="28800" titles="league, cape, island, degree, lie, south, west, isle, bay, call">
+	<word weight="0.03854166666666667" count="1110">league</word>
+	<word weight="0.029548611111111112" count="851">cape</word>
+	<word weight="0.02326388888888889" count="670">island</word>
+	<word weight="0.019756944444444445" count="569">land</word>
+	<word weight="0.019131944444444444" count="551">degree</word>
+	<word weight="0.018298611111111113" count="527">lie</word>
+	<word weight="0.016666666666666666" count="480">south</word>
+	<word weight="0.016215277777777776" count="467">west</word>
+	<word weight="0.016180555555555556" count="466">isle</word>
+	<word weight="0.014027777777777778" count="404">bay</word>
+	<word weight="0.013402777777777777" count="386">call</word>
+	<word weight="0.012326388888888888" count="355">see</word>
+	<word weight="0.011666666666666667" count="336">north</word>
+	<word weight="0.010833333333333334" count="312">fathom</word>
+	<word weight="0.010520833333333333" count="303">course</word>
+	<word weight="0.0103125" count="297">coast</word>
+	<word weight="0.01" count="288">side</word>
+	<word weight="0.00986111111111111" count="284">river</word>
+	<word weight="0.00982638888888889" count="283">east</word>
+	<word weight="0.009236111111111112" count="266">southwest</word>
+	<word weight="0.00920138888888889" count="265">stand</word>
+	<word weight="0.009097222222222222" count="262">come</word>
+	<word weight="0.008923611111111111" count="257">water</word>
+	<word weight="0.008611111111111111" count="248">saint</word>
+	<word weight="0.008402777777777778" count="242">point</word>
+	<word weight="0.00829861111111111" count="239">high</word>
+	<word weight="0.007465277777777778" count="215">hill</word>
+	<word weight="0.006805555555555555" count="196">say</word>
+	<word weight="0.006354166666666667" count="183">northwest</word>
+	<word weight="0.006111111111111111" count="176">low</word>
+	<word weight="0.005902777777777778" count="170">day</word>
+	<word weight="0.005833333333333334" count="168">latitude</word>
+	<word weight="0.005694444444444445" count="164">harbour</word>
+	<word weight="0.005590277777777777" count="161">certain</word>
+	<word weight="0.005520833333333333" count="159">run</word>
+	<word weight="0.0053125" count="153">rock</word>
+	<word weight="0.0052430555555555555" count="151">sand</word>
+	<word weight="0.0051736111111111115" count="149">find</word>
+	<word weight="0.005" count="144">hand</word>
+	<word weight="0.004861111111111111" count="140">white</word>
+	<word weight="0.004861111111111111" count="140">shore</word>
+	<word weight="0.004861111111111111" count="140">great</word>
+	<word weight="0.004583333333333333" count="132">anchor</word>
+	<word weight="0.0045138888888888885" count="130">mark</word>
+	<word weight="0.0045138888888888885" count="130">mouth</word>
+	<word weight="0.0044444444444444444" count="128">tree</word>
+	<word weight="0.004409722222222222" count="127">port</word>
+	<word weight="0.004270833333333333" count="123">half</word>
+	<word weight="0.004270833333333333" count="123">part</word>
+	<word weight="0.0042361111111111115" count="122">end</word>
+	<phrase weight="0.0025244556642473968" count="8">cape briton</phrase>
+	<phrase weight="0.002208898706216472" count="7">grand canaria</phrase>
+	<phrase weight="0.002208898706216472" count="7">latitude degree</phrase>
+	<phrase weight="0.0018933417481855476" count="6">cape blanco</phrase>
+	<phrase weight="0.001577784790154623" count="5">league cape</phrase>
+	<phrase weight="0.001577784790154623" count="5">high hill</phrase>
+	<phrase weight="0.001577784790154623" count="5">santa cruz</phrase>
+	<phrase weight="0.001577784790154623" count="5">east west</phrase>
+	<phrase weight="0.0012622278321236984" count="4">high land</phrase>
+	<phrase weight="0.0012622278321236984" count="4">rio dolce</phrase>
+	<phrase weight="0.0012622278321236984" count="4">lie league</phrase>
+	<phrase weight="0.0012622278321236984" count="4">degree latitude</phrase>
+	<phrase weight="0.0012622278321236984" count="4">league distant</phrase>
+	<phrase weight="0.0012622278321236984" count="4">north side</phrase>
+	<phrase weight="0.0012622278321236984" count="4">river jenero</phrase>
+	<phrase weight="0.0012622278321236984" count="4">isle cape</phrase>
+	<phrase weight="0.0012622278321236984" count="4">sandy bay</phrase>
+	<phrase weight="0.0012622278321236984" count="4">south east</phrase>
+	<phrase weight="0.0012622278321236984" count="4">island lie</phrase>
+	<phrase weight="0.0012622278321236984" count="4">buena esperanza</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">puerto rico</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">twenty league</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">land lie</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">ledge rock</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">island cape</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">cape palmas</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">stand degree</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">league west</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">degree minute</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">course west</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">cabo falso</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">south league</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">fathom deep</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">league land</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">degree half</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">degree terce</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">southerly latitude</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">stand southwest</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">league harbour</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">cape corrientes</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">southeast east</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">isle bermuda</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">south side</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">bay placentia</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">cape cape</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">league northward</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">sant iago</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">south southwest</phrase>
+	<phrase weight="9.466708740927738E-4" count="3">height degree</phrase>
+	<phrase weight="6.311139160618492E-4" count="2">thirty degree</phrase>
+  </topic>
+  <topic id="19" alpha="0.047179400226853824" totalTokens="16260" titles="nostri, quod, nobis, nostris, nostrum, nostro, regni, anno, imperiali, vestrae">
+	<word weight="0.008610086100861008" count="140">nostri</word>
+	<word weight="0.008302583025830259" count="135">quod</word>
+	<word weight="0.007257072570725707" count="118">nobis</word>
+	<word weight="0.005965559655596556" count="97">nostris</word>
+	<word weight="0.005535055350553505" count="90">nostrum</word>
+	<word weight="0.005412054120541206" count="88">nostro</word>
+	<word weight="0.004920049200492005" count="80">regni</word>
+	<word weight="0.004858548585485855" count="79">anno</word>
+	<word weight="0.004797047970479705" count="78">imperiali</word>
+	<word weight="0.004674046740467405" count="76">vestrae</word>
+	<word weight="0.004612546125461255" count="75">kingdom</word>
+	<word weight="0.004428044280442804" count="72">nostra</word>
+	<word weight="0.004366543665436654" count="71">dei</word>
+	<word weight="0.004182041820418204" count="68">gratia</word>
+	<word weight="0.004182041820418204" count="68">suis</word>
+	<word weight="0.003874538745387454" count="63">illis</word>
+	<word weight="0.0038130381303813038" count="62">subject</word>
+	<word weight="0.0037515375153751537" count="61">angliae</word>
+	<word weight="0.0036285362853628535" count="59">omnibus</word>
+	<word weight="0.0035670356703567034" count="58">majesty</word>
+	<word weight="0.0035670356703567034" count="58">regnum</word>
+	<word weight="0.0035055350553505533" count="57">highness</word>
+	<word weight="0.0035055350553505533" count="57">mercatore</word>
+	<word weight="0.0034440344403444036" count="56">seu</word>
+	<word weight="0.0031980319803198032" count="52">jesus</word>
+	<word weight="0.0031980319803198032" count="52">nave</word>
+	<word weight="0.003136531365313653" count="51">nostram</word>
+	<word weight="0.003013530135301353" count="49">vestra</word>
+	<word weight="0.003013530135301353" count="49">god</word>
+	<word weight="0.0028905289052890528" count="47">sva</word>
+	<word weight="0.0028905289052890528" count="47">aliis</word>
+	<word weight="0.0028905289052890528" count="47">prince</word>
+	<word weight="0.0028905289052890528" count="47">grant</word>
+	<word weight="0.0028905289052890528" count="47">regno</word>
+	<word weight="0.002706027060270603" count="44">letter</word>
+	<word weight="0.002706027060270603" count="44">dominion</word>
+	<word weight="0.0025830258302583027" count="42">die</word>
+	<word weight="0.0025215252152521526" count="41">grace</word>
+	<word weight="0.0025215252152521526" count="41">mercatoribus</word>
+	<word weight="0.0024600246002460025" count="40">litera</word>
+	<word weight="0.0023985239852398524" count="39">nostrorum</word>
+	<word weight="0.0023370233702337023" count="38">nostras</word>
+	<word weight="0.0023370233702337023" count="38">thing</word>
+	<word weight="0.0022755227552275522" count="37">sine</word>
+	<word weight="0.002214022140221402" count="36">nostrae</word>
+	<word weight="0.002214022140221402" count="36">subditis</word>
+	<word weight="0.002152521525215252" count="35">salutem</word>
+	<word weight="0.002152521525215252" count="35">hujusmodi</word>
+	<word weight="0.002152521525215252" count="35">queen</word>
+	<word weight="0.002152521525215252" count="35">empire</word>
+	<phrase weight="0.00408905043162199" count="9">imperiali highness</phrase>
+	<phrase weight="0.003634711494775102" count="8">grace god</phrase>
+	<phrase weight="0.001817355747387551" count="4">safe conduct</phrase>
+	<phrase weight="0.0013630168105406633" count="3">imperiali majesty</phrase>
+	<phrase weight="0.0013630168105406633" count="3">kingdom poland</phrase>
+	<phrase weight="0.0013630168105406633" count="3">france ireland</phrase>
+	<phrase weight="0.0013630168105406633" count="3">elizabeth grace</phrase>
+	<phrase weight="0.0013630168105406633" count="3">invincible imperiali highness</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">queen letter</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">regno nostro</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">regnum nostrum</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">receptis mandatis</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">majorem habendam rationem</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">electionem summi</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">regiae majestatis</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">supremo salutem</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">kingdom dominion</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">bailiff vikia</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">dei gratia</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">happy felicity earth</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">heaven earth</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">imperii nostri</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">mighty prince</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">rex angliae</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">jerome bowes</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">servant anthony</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">excellent prince</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">region dominion</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">imperiali dominion</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">buy wool</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">queen majesty letter</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">false profess</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">buy sell</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">prince confederate</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">nativitatis sancti joannis</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">regni huius</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">portu villae</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">ejusdem loci</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">edward grace god</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">nostri vicesimo</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">regni nostri</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">high mighty prince</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">elizabeth grace god queen</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">heaven dated</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">hanc nostram instantiam</phrase>
+	<phrase weight="9.086778736937755E-4" count="2">stately porch</phrase>
+	<phrase weight="4.5433893684688776E-4" count="1">firm thereupon</phrase>
+	<phrase weight="4.5433893684688776E-4" count="1">nostri edwardi</phrase>
+	<phrase weight="4.5433893684688776E-4" count="1">punishment accord</phrase>
+	<phrase weight="4.5433893684688776E-4" count="1">cunctis judicibus</phrase>
+  </topic>
+  <topic id="20" alpha="0.1269651597042186" totalTokens="17702" titles="lord, say, king, master, foresay, subject, england, merchant, ambassador, certain">
+	<word weight="0.03140888035250254" count="556">lord</word>
+	<word weight="0.03050502768048808" count="540">say</word>
+	<word weight="0.01802056264828833" count="319">king</word>
+	<word weight="0.017851090272285618" count="316">master</word>
+	<word weight="0.016495311264263925" count="292">foresay</word>
+	<word weight="0.0161563665122585" count="286">subject</word>
+	<word weight="0.01598689413625579" count="283">england</word>
+	<word weight="0.014913569088238618" count="264">merchant</word>
+	<word weight="0.011693593944187097" count="207">ambassador</word>
+	<word weight="0.011467630776183482" count="203">certain</word>
+	<word weight="0.01039430572816631" count="184">year</word>
+	<word weight="0.00982939780815727" count="174">english</word>
+	<word weight="0.009659925432154558" count="171">letter</word>
+	<word weight="0.009546943848152752" count="169">good</word>
+	<word weight="0.009264489888148231" count="164">prussia</word>
+	<word weight="0.008021692464128347" count="142">sovereign</word>
+	<word weight="0.007739238504123828" count="137">noble</word>
+	<word weight="0.0074002937521184045" count="131">john</word>
+	<word weight="0.006722404248107558" count="119">make</word>
+	<word weight="0.006552931872104847" count="116">part</word>
+	<word weight="0.0064399502881030395" count="114">right</word>
+	<word weight="0.006383459496102135" count="113">behalf</word>
+	<word weight="0.0062704779121003276" count="111">messenger</word>
+	<word weight="0.00615749632809852" count="109">city</word>
+	<word weight="0.005988023952095809" count="106">land</word>
+	<word weight="0.0059315331600949045" count="105">ship</word>
+	<word weight="0.005649079200090386" count="100">honourable</word>
+	<word weight="0.005592588408089481" count="99">injury</word>
+	<word weight="0.00542311603208677" count="96">realm</word>
+	<word weight="0.005084171280081346" count="90">london</word>
+	<word weight="0.005084171280081346" count="90">take</word>
+	<word weight="0.004971189696079539" count="88">damage</word>
+	<word weight="0.004914698904078635" count="87">article</word>
+	<word weight="0.004745226528075923" count="84">party</word>
+	<word weight="0.004745226528075923" count="84">knight</word>
+	<word weight="0.00468873573607502" count="83">town</word>
+	<word weight="0.0046322449440741155" count="82">highness</word>
+	<word weight="0.004462772568071404" count="79">due</word>
+	<word weight="0.004462772568071404" count="79">namely</word>
+	<word weight="0.0044062817760705" count="78">merchandise</word>
+	<word weight="0.0042933001920686924" count="76">prince</word>
+	<word weight="0.004180318608066885" count="74">complaint</word>
+	<word weight="0.004067337024065077" count="72">concern</word>
+	<word weight="0.004010846232064174" count="71">hans</word>
+	<word weight="0.004010846232064174" count="71">william</word>
+	<word weight="0.004010846232064174" count="71">justice</word>
+	<word weight="0.004010846232064174" count="71">pay</word>
+	<word weight="0.003954355440063269" count="70">value</word>
+	<word weight="0.003841373856061462" count="68">satisfaction</word>
+	<word weight="0.0037848830640605582" count="67">unjust</word>
+	<phrase weight="0.0060352831940575676" count="13">lord king</phrase>
+	<phrase weight="0.003714020427112349" count="8">city london</phrase>
+	<phrase weight="0.0032497678737233053" count="7">sovereign lord</phrase>
+	<phrase weight="0.002785515320334262" count="6">foresay merchant</phrase>
+	<phrase weight="0.002321262766945218" count="5">king england</phrase>
+	<phrase weight="0.002321262766945218" count="5">master general</phrase>
+	<phrase weight="0.002321262766945218" count="5">good merchandise</phrase>
+	<phrase weight="0.002321262766945218" count="5">realm england</phrase>
+	<phrase weight="0.0018570102135561746" count="4">say merchant</phrase>
+	<phrase weight="0.0018570102135561746" count="4">english merchant</phrase>
+	<phrase weight="0.0018570102135561746" count="4">year lord</phrase>
+	<phrase weight="0.0018570102135561746" count="4">sovereign lord king</phrase>
+	<phrase weight="0.0018570102135561746" count="4">france ireland</phrase>
+	<phrase weight="0.0018570102135561746" count="4">merchant realm</phrase>
+	<phrase weight="0.0018570102135561746" count="4">king henry</phrase>
+	<phrase weight="0.001392757660167131" count="3">master generali</phrase>
+	<phrase weight="0.001392757660167131" count="3">say master generali</phrase>
+	<phrase weight="0.001392757660167131" count="3">say master</phrase>
+	<phrase weight="0.001392757660167131" count="3">lord burghley lord</phrase>
+	<phrase weight="0.001392757660167131" count="3">king norway</phrase>
+	<phrase weight="0.001392757660167131" count="3">equity justice</phrase>
+	<phrase weight="0.001392757660167131" count="3">land prussia</phrase>
+	<phrase weight="0.001392757660167131" count="3">feast easter</phrase>
+	<phrase weight="0.001392757660167131" count="3">feast saint</phrase>
+	<phrase weight="0.001392757660167131" count="3">right honourable</phrase>
+	<phrase weight="0.001392757660167131" count="3">say english</phrase>
+	<phrase weight="0.001392757660167131" count="3">year follow</phrase>
+	<phrase weight="0.001392757660167131" count="3">say ship</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">wismer rostok hans</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">foresay sovereign prince</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">clothes assize</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">king majesty</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">liege subject</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">say land prussia</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">palace westminster</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">certain letter</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">article exhibit</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">gracious clemency</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">england france lord ireland</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">say ambassador</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">love honourable</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">say dogger</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">dutch knight</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">royal city</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">say messenger</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">say sovereign lord king</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">commander warnherus tettingen</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">king england france lord ireland</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">treasurer england</phrase>
+	<phrase weight="9.285051067780873E-4" count="2">foresay city</phrase>
+  </topic>
+</topics>

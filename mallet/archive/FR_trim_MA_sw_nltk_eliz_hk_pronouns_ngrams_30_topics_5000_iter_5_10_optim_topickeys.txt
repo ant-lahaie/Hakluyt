@@ -1,0 +1,30 @@
+0	0.08968	nobles & merchant 	say lord foresay king master england subject merchant prussia year ambassador sovereign noble certain good john english realm city behalf 
+1	0.10267	sea-travel 		day come ship wind shore boat go sail night anchor water aboard take captain two morning land clock find pinnace 
+2	0.04395	Latin 			est quod autem say se sed nos nobis vero homines illa terra tamen quo inter quibus super sicut ejus ita 
+3	0.01696	lord sir army duke honourable colonel flanders peace action enemy attempt navy majesty parma caleis ireland duke_parma knight england cadiz 
+4	0.02202	fort savage france paracoussy utina florida indians monsieur indian enterprise soldier ribault lieutenant virginia discover embark village advertise bark satourioua 
+5	0.01458	di che il nave nostra te ob tabin alia atque tua tibi sva suo gli della columbus da li qual 
+6	0.05774	king year richard son henry earl prince england king_richard french island english brother french_king john jerusalem christian william reign olavus 
+7	0.0324	mile thousand turk city hundred carovan venice bassa ambassador night monastery five pound venetian castle asper cairo pillar grand grand_signior 
+8	0.12221	say merchant company grant time person heir every subject trade governor william successor good dominion present realm richard edward ship 
+9	0.00179	baatu tunc sartach tartar drink quia ei cart court moal mangu cosmos ox nos milk ergo horse chap tanais saracen 
+10	0.00807	city china kingdom province magistrate japan shire war idol quabacondono coray chinians father augustine kind great_city prison day_journey tartar palace 
+11	0.01007	river guiana spaniard gold berreo nation trinidad orenoque indians province indian canoas indies mountain empire discovery branch dorado carapana amazones 
+12	0.06367	league cape island land north degree east west south lie go fathom isle see call bay coast point river southwest 
+13	0.02958	ice sea sun passage degree part north discover heat america equinoctial cold coast world region prove pole east discovery card 
+14	0.04152	spaniard spain indians ship mexico peru city negro town river englishman harbour league viceroy panama build strait indian fort silver 
+15	0.04231	generali master strait captain_master discovery degree general briton cape south_sea desire cape_briton savage penguin extremity bird gilbert action newfoundland hind 
+16	0.0347	plant commodity kind realm use colour tree grow vent naturali fish soil trade herb sweet sort die excellent seed work 
+17	0.02702	indians see sign river tell certain mountain boat stay lord cevola indian woman valley france canada begin league make_sign goodly 
+18	0.06194	ship fleet generali spanish admiral sir fight spaniard mariner shot galley john england captain drake indies general english ton thomas 
+19	0.02956	portugal goa king pegu go custom money city pay merchant ormus cloth cochin aleppo every babylon merchandise lade malacca indies 
+20	0.03018	negro portugal frenchman guinea traffic elephant tooth cape minion ounce weight merchant french verde grain tiger africa rio elephant_tooth benin 
+21	0.00624	por se las lo para muy sum mass todo como es un province le les una sus deal provincia alii 
+22	0.03619	turk lord enemy master great_turk assault galley town say great_master rhodes shoot captain wall bulwark artillery lord_great slay gate camp 
+23	0.00698	island aut thing etc esse islander islandia bishop year nation anno common mountain islandiae concern munster id hecla haec krantzius 
+24	0.04159	ware send persia sell astracan good russia buy commodity write merchant trade lade letter shaugh money silk pound turk agent 
+25	0.03395	nostri nos nobis vestrae kingdom nostris subject nostro nostrum regni angliae imperiali anno mercatore etc quod dei nostra omnibus gratia 
+26	0.10233	majesty merchant letter emperor ambassador queen highness send english lord english_merchant write privilege ware prince say dominion favour moscow accord 
+27	0.00334	tartar contra eos duke emperor terram habent tartarorum eis autem debent tartari bathy faciunt imperatoris tent cap duces exercitus possunt 
+28	0.72147	great man come make one say take place time good call day two country many go ship part see find 
+29	0.02663	emperor russia tartar duke moscow ruff nicholas saint_nicholas church horse russes dinner table moscovite drink sit moscovia rich cloth cloth_gold 

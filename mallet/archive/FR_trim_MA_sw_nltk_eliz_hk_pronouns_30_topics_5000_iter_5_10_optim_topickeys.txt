@@ -1,0 +1,30 @@
+0	trade 			0.1382	good ware merchant sell commodity send buy ship bring trade write lade year pound one money make cloth letter english 
+1	Russia travel leaders	0.04682	emperor russia country moscow astracan river part town pass tartar ruff duke say call castle turk north russes nicholas way 
+2	general travel 		0.49398	time country part good make first god place many mean much matter think thing great sort use manner cause last 
+3	0.05488	est atque sed vero hic quibus sit esse jam christ tum long quidem quod christi quo tam ita igitur nunc 
+4	0.02283	river call mile say east note voyage thence mouth place winter region north two nova wardhouse cathay lake name way 
+5	0.08426	king english england year richard henry earl land sea lord peace french prince see jerusalem edward holy take anno brother 
+6	0.05262	turk hundred one thousand mile signior hand two grand five call bassa three tripoli say constantinople venice ambassador venetian galley 
+7	0.64027	man come take one two ship day send make time great three leave company give return good captain say place 
+8	Iceland 		0.00589	island say thing man quod esse aut etc est mountain bishop anno certain islander islandia nation islandiae common munster year 
+9	0.1272	day come wind shore night boat land league sail ship anchor water see aboard morning island clock find two fathom 
+10	0.21389	majesty letter say merchant great send ambassador queen king highness lord good write give england english prince emperor god accord 
+11	0.21793	great make people country many one man hand call fish use land find see water tree wood thing grow diverse 
+12	0.06147	league cape island degree land isle lie west call south bay north see coast east course say side fathom sea 
+13	0.02484	est autem eos quod contra terram eis super sed terra habent homines emperor vero quia inter tartar post sive usque 
+14	0.10723	john master thomas william voyage richard ship savage england sir portugal company pinnace london year virginia edward robert coast ton 
+15	0.01999	island son year norway olavus isle reginald britain brother fleet nicolo zichmni godred harald sail magnus tot irland reign tempest 
+16	0.0072	quod tunc nos baatu quia say sartach tartar drink nobis unde court est cart super mare ipse journey ibi erat 
+17	0.09918	great king kingdom year lord province war son man china call certain city prince father nation namely death slay length 
+18	0.01261	river guiana gold spaniard berreo nation great far trinidad town indians call orenoque province one mountain many indian indies canoas 
+19	0.07782	sea land coast degree part ice discover passage find island north sun voyage towards great america west discovery say equinoctial 
+20	0.10237	ship generali fleet captain admiral spanish england spaniard sir english fight sail great shot town general mariner galley sea shoot 
+21	0.0398	nos nostri quod nobis nostro nostra vestrae dei nostris mercatore nostrum gratia kingdom imperiali regni suis subject omnibus grant anno 
+22	0.19148	great city day come say one house many call man every time stand place town gold horse certain carry see 
+23	war 			0.02732	great say town lord enemy make turk army day wall master assault captain slay shoot people give rhodes bulwark camp 
+24	0.0857	town spaniard river ship call league spain indians country city great say mexico place come king land year coast negro 
+25	0.15834	say merchant subject time grant heir person lord make every foresay good england king year master governor present successor company 
+26	0.03172	king portugal good make goa great ship pegu merchant money custom pay kingdom city indies ormus every cochin babylon merchandise 
+27	0.03225	river say great certain see indians captain give come league find thing country make lord tell people towards show begin 
+28	0.03346	est say illa autem quod habet certain sic ibi sibi qudd unum illis sicut ita illius ejus qua illo homines 
+29	0.00729	por las para muy sum como che todo mass una qual deal province les come provincia sus pilot alii dicho 
