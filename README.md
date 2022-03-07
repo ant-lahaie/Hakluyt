@@ -13,8 +13,8 @@ The majority of the work was done in Python running on Jupyter Lab notebooks, wi
 - FineReader texts processing: cleaning up the text obtained through ABBYY FineReader.
 - HK_trim_page_chapters: in splitting the text into chapters, CambridgeCore created quite a bit of duplication: when a chapter ends mid-page, as they usually do, that page is included in both chapter files. Repeat ~600 times, and you get an extra 125,000 words or so. The notebook trims chapter text files in a semi-automatic, supervised manner.
 - HK_MorphAdorner_lem_corpus: supplementary code building a lemmatized corpus based on [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/)
-- text cleaning: routines to identify commin misspellings through fuzzy search and fix them globally.
-- HK_txt_ledger: creating a csv ledger listing the file names with various metadata
+- text cleaning: routines to identify common misspellings through fuzzy search and fix them globally.
+- HK_txt_ledger: creating a csv ledger listing the file names with various metadata and performing further operations on it
 - HK_genre_categories: an attempt to identify meaning genre-like categories based on top frequent words in chapter titles
 - HK_AM_cat_corpus: creates a modified corpus based on the American volume hand-tagged for colonial encounter categories
 - HK_basics.py: functions to extract basic metadata from filenames
@@ -29,18 +29,17 @@ Most of the text-data subfolders contain the Hakluyt corpus, one .txt file per c
 - pdfminer: text extracted via the pdfminer Python library.
 - FineReader_OCR / FR: text extracted through ABBYY FineReader.
 - morphad_lem / MAlem: text lemmatized through [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/).
-- trimmed: eliminated overlap between chapter beginning/endings .introduced through page duplications in the PDF chapter splitting
+- MAspel: spelling normalized through [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/).
+- trimmed: eliminated overlap between chapter beginning/endings introduced through page duplications in the PDF chapter splitting
+- chunked: text broken down into smaller text files for topic modeling; currently two versions: adjusted down to a single page size and adjusted down to the median chapter length, which is about three pages.
 - AMER: only the American volume present.
 - cat_mod: modified corpus marked for explorer's nation, for colonial encounters and for exploration accounts; some chapters split into sub-sections for better differentiation.
-- enc_full_part: the above, only including chapters dealing with colonial encounter to a significant degree.
 <br>
 
 Other files and folders:
 - comparison_texts: several English historical texts roughly from the same era for baseline comparison.
 - morphadorner-outputs: raw output from [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/).
-- ledger.csv: a list of all the chapter/filenames.
-- ledgertagged.csv: same as above, but with added tags.
-- AMledger: same, but only for the American volume and with added categories; see cat_mod above.
+- ledger***.csv: spreadsheets tracking metadata and research findings per chapter (and sometimes smaller text chunks).
 - stopwords.csv: stopwords organized into different classes.
 - replacement_record: keeps track of programmatic spelling modifications, see "text cleaning" notebook.
 
