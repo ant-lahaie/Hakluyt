@@ -53,3 +53,4 @@ Casiques -> Caciques in raw
 pemisapans -> Pemisapan in tot
 canibal -> cannibal in tot
 naturali -> natural in totnraw
+harquebuss -> harquebus in totnraw
