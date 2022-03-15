@@ -8,17 +8,21 @@ The majority of the work was done in Python running on Jupyter notebooks, with o
 
 ## Table of Contents
 ### code
-- HK_expl: main text-mining notebook, starting with a broad numeric overview of volumes/chapters/etc., some word frequency counts, and then zeroing in on the American volume, and finally doing a deep-dive on representations of violence.
-- HK_pdfminer_extract_from_CambridgeCore_pdfs: using the pdfminer package to extract text from the PDF files obtained from [CambridgeCore](https://www.cambridge.org/core/search?q=%22The+Principal+Navigations+Voyages+Traffiques+and+Discoveries+of+the+English+Nation%22&_csrf=ClRQrSp5-1YX3NsOYk38Ttaf8Q1oq0_c_5Xw). Soon abandoned in favor of slightly better quality OCR through ABBYY FineReader.
-- FineReader texts processing: cleaning up the text obtained through ABBYY FineReader.
-- HK_trim_page_chapters: in splitting the text into chapters, CambridgeCore created quite a bit of duplication: when a chapter ends mid-page, as they usually do, that page is included in both chapter files. Repeat ~600 times, and you get an extra 125,000 words or so. The notebook trims chapter text files in a semi-automatic, supervised manner.
-- HK_MorphAdorner_lem_corpus: supplementary code building a lemmatized corpus based on [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/)
-- text cleaning: routines to identify common misspellings through fuzzy search and fix them globally.
-- HK_genre_categories: an attempt to identify meaning genre-like categories based on top frequent words in chapter titles.
-- HK_AM_cat_corpus_ledgers.ipynb: created a modified corpus based on the American volume hand-tagged for colonial encounter categories; various ledger operations
-- HK_basics.py: functions to extract basic metadata from filenames
-- MALLET_prep: supplementary code for running the text files through [MALLET](https://mimno.github.io/Mallet/index) topic modeling
-- plot-gephi: supplementary code for running the text files through [Gephi](https://gephi.org/) network-graphing 
+- main research notebooks:
+    - HK_expl: main text-mining notebook, starting with a broad numeric overview of volumes/chapters/etc., some word frequency counts, and then zeroing in on the American volume, and finally doing a deep-dive on representations of violence.
+    - HK_ledgers: various ledger operations, incrementally recording added per-chapter findings
+    - MALLET_prep: supplementary code for running the text files through [MALLET](https://mimno.github.io/Mallet/index) topic modeling
+    - plot-gephi: supplementary code for running the text files through [Gephi](https://gephi.org/) network-graphing 
+- one-off operations:
+    - HK_genre_categories: an attempt to identify meaning genre-like categories based on top frequent words in chapter titles.
+    - HK_pdfminer_extract_from_CambridgeCore_pdfs: using the pdfminer package to extract text from the PDF files obtained from [CambridgeCore](https://www.cambridge.org/core/search?q=%22The+Principal+Navigations+Voyages+Traffiques+and+Discoveries+of+the+English+Nation%22&_csrf=ClRQrSp5-1YX3NsOYk38Ttaf8Q1oq0_c_5Xw). Soon abandoned in favor of slightly better quality OCR through ABBYY FineReader.
+    - FineReader texts processing: cleaning up the text obtained through ABBYY FineReader.
+    - HK_trim_page_chapters: in splitting the text into chapters, CambridgeCore created quite a bit of duplication: when a chapter ends mid-page, as they usually do, that page is included in both chapter files. Repeat ~600 times, and you get an extra 125,000 words or so. The notebook trims chapter text files in a semi-automatic, supervised manner.
+    - HK_MorphAdorner_lem_corpus: supplementary code building a lemmatized corpus based on [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/)
+    - text cleaning: routines to identify common misspellings through fuzzy search and fix them globally.
+    - HK_AM_cat_corpus: created a modified corpus based on the American volume hand-tagged for colonial encounter categories
+    - HK_basics.py: shared functions to extract basic metadata from filenames
+
 
 ### text data
 Most of the text-data subfolders contain the Hakluyt corpus, one .txt file per chapter, variously processed. 'Variously' is captured through a series of abbreviations as follows:
