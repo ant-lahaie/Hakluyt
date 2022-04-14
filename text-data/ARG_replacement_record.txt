@@ -1,0 +1,31 @@
+generali -> generalinARG
+harquebuzes -> harquebusesinARG
+harquebusses -> harquebusesinARG
+harquebushes -> harquebusesinARG
+Harquebuzes -> harquebusesinARG
+harguebuzes -> harquebusesinARG
+harquebusies -> harquebusesinARG
+harquebuses -> harquebusesinARG
+Harquebuses -> harquebusesinARG
+harquebuze -> harquebusinARG
+harquebus -> harquebusinARG
+harquebush -> harquebusinARG
+harquebuse -> harquebusinARG
+Harquebuze -> harquebusinARG
+harquebusse -> harquebusinARG
+hargubuz -> harquebusinARG
+hargubush -> harquebusinARG
+harquebusiers -> harquebusierinARG
+Harquebuzers -> harquebusierinARG
+harquebuzers -> harquebusierinARG
+harquebusers -> harquebusierinARG
+harquebushers -> harquebusierinARG
+harquebuziers -> harquebusierinARG
+halbert -> halberd in ARG
+halebert -> halberd in ARG
+{n} -> 
+ in ARG
+{n} -> 
+ in ARG
+{n} ->  
+ in ARG

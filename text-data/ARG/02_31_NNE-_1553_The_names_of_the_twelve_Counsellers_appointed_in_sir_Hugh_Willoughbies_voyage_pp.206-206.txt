@@ -1,0 +1,14 @@
+The names of the twelve Counsellors appointed in this voyage.
+i Qlr Hugh Willoughby Knight, Captaine generail.
+2	O Richard Chancelour Captaine of the Edward ■ Bonaventure, and Pilot general of the fleete.
+3	George Burton Cape marchant.
+4	Master Richard Stafford Minister.
+5	Thomas Langlie Marchant.
+6	James Dalabere Gentleman.
+y	William Gefferson Master of the Bona Speranza Admirall.
+8	Stephen Borrough Master of the Edward Bonaventure.
+9	Cornelius Durfurth Master of the Confidentia.
+io Roger Wilson. J
+11	John Buckland. > Masters mates.
+12	Richard Ingram. J
+.
