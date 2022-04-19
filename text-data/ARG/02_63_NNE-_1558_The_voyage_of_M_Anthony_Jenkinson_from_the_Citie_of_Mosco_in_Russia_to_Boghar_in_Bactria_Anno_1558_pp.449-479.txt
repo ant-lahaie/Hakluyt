@@ -138,4 +138,3 @@ dayes journey from the Caspian sea.	>42		18
 Boghar a citie in Tartary			
 20. dayes journey	^39		IO
 from Urgence.	J			I	J
-.

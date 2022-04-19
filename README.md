@@ -9,7 +9,8 @@ The majority of the work was done in Python running on Jupyter notebooks, with o
 ## Table of Contents
 ### code
 - main research notebooks:
-    - HK_expl: main text-mining notebook, starting with a broad numeric overview of volumes/chapters/etc., some word frequency counts, and then zeroing in on the American volume, and finally doing a deep-dive on representations of violence.
+    - HK_arg: a consolidated mostly-formal computational argument starting with a broad numeric overview of volumes/chapters/etc., some word frequency counts, and then zeroing in on the American volume, and finally doing a deep-dive on representations of violence; largely assembeld from the notebooks below; still a work-in-progress, hence HK_expl currently carries the argument further than HK_arg
+    - HK_expl: main working text-mining notebook
     - HK_ledgers: various ledger operations, incrementally recording added per-chapter findings
     - MALLET_prep: supplementary code for running the text files through [MALLET](https://mimno.github.io/Mallet/index) topic modeling
     - plot-gephi: supplementary code for running the text files through [Gephi](https://gephi.org/) network-graphing 
@@ -35,7 +36,7 @@ Most of the text-data subfolders contain the Hakluyt corpus, one .txt file per c
 - morphad_lem / MAlem: text lemmatized through [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/).
 - MAspel: spelling normalized through [MorphAdorner](http://morphadorner.northwestern.edu/morphadorner/).
 - trimmed: eliminated overlap between chapter beginning/endings introduced through page duplications in the PDF chapter splitting
-- chunked: text broken down into smaller text files for topic modeling; currently two versions: adjusted down to a single page size and adjusted down to the median chapter length, which is about three pages.
+- chunked: text broken down into smaller text files for topic modeling
 - AMER: only the American volume present.
 - cat: some chapters split into sub-sections for better differentiation of intercultural encounter
 - cat_mod: as above, but with filenames marked for explorer's nation, for colonial encounters and for exploration accounts

@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+commandement	commandement	n1	commandment	commandment	0
+for	for	p-acp	for	for	0
+Chio.	Chio.	np1	Chio.	Chio.	0
+{	{	{	{	{	0
+n	n	wd	n	n	0
+}	}	}	}	}	0
+.	.	.	.	.	1

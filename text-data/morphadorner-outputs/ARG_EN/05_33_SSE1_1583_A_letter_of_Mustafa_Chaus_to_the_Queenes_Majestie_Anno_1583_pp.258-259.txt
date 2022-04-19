@@ -1,0 +1,16 @@
+A	A	dt	A	a	0
+letter	letter	n1	letter	letter	0
+of	of	pp-f	of	of	0
+Mustapha	Mustapha	np1	Mustapha	Mustapha	0
+Chaus	Chaus	np1	Chaus	Chaus	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Queenes	Queenes	ng1	Queens	queen	0
+most	most	av-ds	most	most	0
+excellent	excellent	j	excellent	excellent	0
+Majestie	Majestie	n1	Majesty	majesty	0
+.	.	.	.	.	1
+{	{	{	{	{	0
+n	n	wd	n	n	0
+}	}	}	}	}	0
+.	.	.	.	.	1

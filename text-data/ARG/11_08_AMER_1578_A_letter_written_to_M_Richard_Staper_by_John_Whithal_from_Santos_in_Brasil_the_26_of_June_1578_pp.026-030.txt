@@ -71,4 +71,3 @@ If you send this ship, I would have you give order that she touch in no part of 
 'Also a dozen of shirts for my wearing let be sent, if you send the ship.
 <	Item, sixe or eight pieces of sayes for mantles for women, which is the most necessary thing that can be sent.
 By your assured friend John Whithall.
-.

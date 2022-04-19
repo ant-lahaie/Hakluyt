@@ -1,0 +1,17 @@
+A	A	dt	A	a	0
+commandement	commandement	n1	commandment	commandment	0
+for	for	p-acp	for	for	0
+Baliabadram	Baliabadram	np1	Baliabadram	Baliabadram	0
+.	.	.	.	.	1
+{	{	{	{	{	0
+n	n	wd	n	n	0
+}	}	}	}	}	0
+A	A	dt	A	a	0
+commaundement	commaundement	n1	commandment	commandment	0
+for	for	p-acp	for	for	0
+Egypt	Egypt	np1	Egypt	Egypt	0
+.	.	.	.	.	1
+{	{	{	{	{	0
+n	n	wd	n	n	0
+}	}	}	}	}	0
+.	.	.	.	.	1
