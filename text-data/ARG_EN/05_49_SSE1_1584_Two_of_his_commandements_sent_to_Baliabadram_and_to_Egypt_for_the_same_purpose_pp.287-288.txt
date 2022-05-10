@@ -1,1 +1,3 @@
-A commandement for Baliabadram.{n}A commaundement for Egypt.{n}.
+A commandement for Baliabadram.
+A commaundement for Egypt.
+.
